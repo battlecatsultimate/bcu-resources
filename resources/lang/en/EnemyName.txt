@@ -1,0 +1,501 @@
+000	Doge
+001	Snache
+002	Those Guys
+003	Hippoe
+004	Pigge (Red)
+005	Jackie Peng
+006	Gory
+007	Baa Baa
+008	Sir Seal (Red)
+009	Le'boin
+010	Kang Roo
+011	One Horn (Red)
+012	Teacher Bear
+013	Croco
+014	B.B.Bunny (Red)
+015	Squire Rel
+016	Assassin Bear (Black)
+017	Shy Boy (Red/Floating)
+018	The Face (Floating)
+019	
+020	
+021	Ms. Sign
+022	Mooth (Floating)
+023	Dark Emperor Nyandam (Red)
+024	Teacher Bun Bun (Floating)
+025	
+026	
+027	
+028	
+029	
+030	
+031	Master A.
+032	R.Ost
+033	Otta-smack-u
+034	Kory
+035	Camelle
+036	Duche
+037	Owlbrow (Floating)
+038	Bore (Red)
+039	THE SLOTH
+040	Rain D.
+041	Dagshund
+042	Celeboodle
+043	H. Nah
+044	Dober P.D
+045	Ururun Wolf
+046	Doge Dark (Black)
+047	Metal Hippoe (Metal)
+048	St. Pigge the 2nd (Red)
+049	J.K Bun Bun (Red/Floating)
+050	Bun Bun Black
+051	Gory Black (Black)
+052	Shadow Boxer K (Black)
+053	Director Kurosawah (Black)
+054	Super Metal Hippoe (Metal)
+055	
+056	Metal One Horn (Metal)
+057	Teacher Cybear (Metal)
+058	CyberFace (Metal)
+059	Sir Metal Seal (Metal)
+060	
+061	
+062	
+063	
+064	Red Cyclone (Red/Floating)
+065	
+066	
+067	
+068	
+069	White Cyclone (Floating)
+070	Black Cyclone (Floating/Black)
+071	Metal Cyclone (Metal)
+072	
+073	
+074	
+075	
+076	
+077	
+078	
+079	
+080	
+081	
+082	
+083	
+084	
+085	
+086	
+087	
+088	
+089	
+090	
+091	
+092	
+093	
+094	
+095	
+096	
+097	
+098	
+099	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	Divine Cyclone (Angel)
+113	Heavenly Hippoe (Angel)
+114	Gabriel (Angel)
+115	Angelic Gory (Angel)
+116	Angel Fanboy
+117	Wall Doge
+118	Ginger Snache (Red)
+119	Sunfish Jones (Angel)
+120	
+121	
+122	
+123	Pigeon de Sable (Floating)
+124	Dark Otter (Black)
+125	Angelic Sleipnir (Angel)
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	Trolly Blogger
+147	Metal Doge (Metal)
+148	Li'l Nyandam (Red)
+149	Le'noir (Black)
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	Chickful A (Angel)
+161	
+162	
+163	
+164	
+165	
+166	
+167	Shibalien (Alien)
+168	Kroxo (Alien)
+169	Hyppoh (Alien)
+170	Imperator Sael (Alien)
+171	Maawth (Alien, Floating)
+172	LeMurr (Alien)
+173	Helmut Krabbe (Alien)
+174	I.M. Phace (Alien, Floating)
+175	Ursamajor (Alien)
+176	Cli-One (Alien, Floating)
+177	Nimoy Bore (Alien)
+178	Elizabeth the LVIth (Alien)
+179	Cosmic Cyclone (Alien, Floating)
+180	Galactic Overseer Nyandam (Alien)
+181	Corrupted Valkyrie (Alien/Floating)
+182	Scissoroo (Alien)
+183	Cyberhorn (Alien)
+184	Mistress Celeboodle (Alien)
+185	Professor A. (Red)
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	Capy (Red)
+206	Berserkory (Red)
+207	Brollow (Floating)
+208	Calamary (Alien/Floating)
+209	Alpacky (Alien)
+210	Elder Sloth (Alien)
+211	Bun Bun Symbiote (Alien/Floating)
+212	Raging Bahamut Cat (Alien/Floating)
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	Cruel Angel Clionel (Angel)
+233	
+234	
+235	Mr. Mole
+236	The Perfect Cyclone (Floating)
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	Mr. Angel (Angelic)
+255	Two Can (Red / Black)
+256	Tackey (Black)
+257	King Wahwah
+258	Codename "Red Riding"
+259	
+260	
+261	Boraphim (Angel)
+262	
+263	
+264	
+265	
+266	Henry
+267	Hannya (Red)
+268	
+269	
+270	
+271	Queen B (Alien/Floating)
+272	Li'l Bun Bun (Floating)
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	Razorback (Black)
+281	
+282	
+283	
+284	Zoge (Zombie)
+285	Znache (Zombie)
+286	Zomboe (Zombie)
+287	Zigge (Zombie)
+288	Zackie Peng (Zombie)
+289	Zory (Zombie)
+290	Zir Zeal (Zombie)
+291	Zang Roo (Zombie)
+292	Zroco (Zombie)
+293	Lord Gravey (Zombie)
+294	Zyclone (Zombie)
+295	
+296	
+297	
+298	
+299	
+300	
+301	
+302	
+303	Miss Haka (Zombie)
+304	Big Sal (Zombie)
+305	
+306	
+307	
+308	
+309	Coffin Zoge (Zombie)
+310	Zamelle (Zombie)
+311	
+312	
+313	
+314	
+315	
+316	Inumusha (Zombie)
+317	Daboo of the Dead (Zombie)
+318	Dolphina
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	Cala Maria (Angel)
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	
+353	
+354	Hermit Cat
+355	Croakley
+356	
+357	
+358	
+359	
+360	Shibalien Elite (Alien)
+361	Star Peng (Alien)
+362	General GreGory (Alien)
+363	Le'Solar (Alien)
+364	Project A (Alien)
+365	Corporal Weyland (Alien)
+366	Spacefish Jones (Alien/Floating)
+367	The Cat God (Floating)
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	Youcan (Angel / Alien)
+376	
+377	Super Cosmic Cyclone (Alien)
+378	
+379	Winged Pigge (Angel)
+380	Mystic Mask Yulala
+381	
+382	
+383	
+384	
+385	
+386	
+387	Hackey (Red)
+388	UltraBaaBaa (Alien)
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	Mecha-Bun (Floating)
+406	Relic Bun-Bun (Relic)
+407	Relic Doge (Relic)
+408	
+409	
+410	
+411	
+412	Sir Rel (Relic)
+413	Oldhorn (Relic)
+414	Othom (Relic/Floating)
+415	
+416	
+417	Kid Tappa (Alien)
+418	Ribbo (Alien)
+419	Cat God (Cool Dude)
+420	Loris (Relic)
+421	
+422	
+423	Lowkey (Relic/Floating)
+424	M. Ost (Relic)
+425	
+426	
+427	Cadaver Bear (Zombie)
+428	Dread Bore (Zombie)
+429	
+430	
+431	Bakoo (Black)
+432	
+433	
+434	
+435	
+436	
+437	
+438	Primeval Cyclone (Relic)
+439	
+440	
+441	
+442	
+443	Mesocosmocyclone (Alien)
+444	Gardeneel Bros. (Alien)
+445	Axoloty (Alien)
+446	Final Boss Giga-God (Cool Dude)
+447	Filibuster Obstructa (Alien/Floating)
+448	
+449	
+450	Dogumaru (Relic)
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	
+469	
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	
+478	
+479	
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	
+491	
+492	
+493	
+494	
+495	
+496	
+497	
+498	
+499	
+500	

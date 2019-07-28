@@ -1,0 +1,6 @@
+/.svn/
+/.settings/
+**/.DS_Store
+/assets/
+/target/
+.project
