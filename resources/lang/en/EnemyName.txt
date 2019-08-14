@@ -1,75 +1,75 @@
-000	%s
-001	%s
-002	%s
-003	%s
-004	%s(Red)
-005	%s
-006	%s
-007	%s
-008	%s(Red)
-009	%s
-010	%s
-011	%s(Red)
-012	%s
-013	%s
-014	%s(Red)
-015	%s
-016	%s(Black)
-017	%s(Red/Floating)
-018	%s(Floating)
+000	Doge
+001	Snache
+002	Those Guys
+003	Hippoe
+004	Pigge
+005	Jackie Peng
+006	Gory
+007	Baa Baa
+008	Sir Seal
+009	Le'boin
+010	Kang Roo
+011	One Horn
+012	Teacher Bear
+013	Croco
+014	B.B.Bunny
+015	Squire Rel
+016	Assassin Bear
+017	Shy Boy
+018	The Face
 019	
 020	
-021	%s
-022	%s(Floating)
-023	%s(Red)
-024	%s(Floating)
+021	Ms. Sign
+022	Mooth
+023	Dark Emperor Nyandam
+024	Teacher Bun Bun
 025	
 026	
 027	
 028	
 029	
 030	
-031	%s
-032	%s
-033	%s
-034	%s
-035	%s
-036	%s
-037	%s(Floating)
-038	%s(Red)
-039	%s
-040	%s
-041	%s
-042	%s
-043	%s
-044	%s
-045	%s
-046	%s(Black)
-047	%s(Metal)
-048	%s(Red)
-049	%s(Red/Floating)
-050	%s
-051	%s(Black)
-052	%s(Black)
-053	%s(Black)
-054	%s(Metal)
+031	Master A.
+032	R.Ost
+033	Otta-smack-u
+034	Kory
+035	Camelle
+036	Duche
+037	Owlbrow
+038	Bore
+039	THE SLOTH
+040	Rain D.
+041	Dagshund
+042	Celeboodle
+043	H. Nah
+044	Dober P.D
+045	Ururun Wolf
+046	Doge Dark
+047	Metal Hippoe
+048	St. Pigge the 2nd
+049	J.K Bun Bun
+050	Bun Bun Black
+051	Gory Black
+052	Shadow Boxer K
+053	Director Kurosawah
+054	Super Metal Hippoe
 055	
-056	%s(Metal)
-057	%s(Metal)
-058	%s(Metal)
-059	%s(Metal)
+056	Metal One Horn
+057	Teacher Cybear
+058	CyberFace
+059	Sir Metal Seal
 060	
 061	
 062	
 063	
-064	%s(Red/Floating)
+064	Red Cyclone
 065	
 066	
 067	
 068	
-069	%s(Floating)
-070	%s(Floating/Black)
-071	%s(Metal)
+069	White Cyclone
+070	Black Cyclone
+071	Metal Cyclone
 072	
 073	
 074	
@@ -110,20 +110,20 @@
 109	
 110	
 111	
-112	%s(Angel)
-113	%s(Angel)
-114	%s(Angel)
-115	%s(Angel)
-116	%s
-117	%s
-118	%s(Red)
-119	%s(Angel)
+112	Divine Cyclone
+113	Heavenly Hippoe
+114	Gabriel
+115	Angelic Gory
+116	Angel Fanboy
+117	Wall Doge
+118	Ginger Snache
+119	Sunfish Jones
 120	
 121	
 122	
-123	%s(Floating)
-124	%s(Black)
-125	%s(Angel)
+123	Pigeon de Sable
+124	Dark Otter
+125	Angelic Sleipnir
 126	
 127	
 128	
@@ -144,10 +144,10 @@
 143	
 144	
 145	
-146	%s
-147	%s(Metal)
-148	%s(Red)
-149	%s(Black)
+146	Trolly Blogger
+147	Metal Doge
+148	Li'l Nyandam
+149	Le'noir
 150	
 151	
 152	
@@ -158,32 +158,32 @@
 157	
 158	
 159	
-160	%s(Angel)
+160	Chickful A
 161	
 162	
 163	
 164	
 165	
 166	
-167	%s(Alien)
-168	%s(Alien)
-169	%s(Alien)
-170	%s(Alien)
-171	%s(Alien, Floating)
-172	%s(Alien)
-173	%s(Alien)
-174	%s(Alien, Floating)
-175	%s(Alien)
-176	%s(Alien, Floating)
-177	%s(Alien)
-178	%s(Alien)
-179	%s(Alien, Floating)
-180	%s(Alien)
-181	%s(Alien/Floating)
-182	%s(Alien)
-183	%s(Alien)
-184	%s(Alien)
-185	%s(Red)
+167	Shibalien
+168	Kroxo
+169	Hyppoh
+170	Imperator Sael
+171	Maawth
+172	LeMurr
+173	Helmut Krabbe
+174	I.M. Phace
+175	Ursamajor
+176	Cli-One
+177	Nimoy Bore
+178	Elizabeth the LVIth
+179	Cosmic Cyclone
+180	Galactic Overseer Nyandam
+181	Corrupted Valkyrie
+182	Scissoroo
+183	Cyberhorn
+184	Mistress Celeboodle
+185	Professor A.
 186	
 187	
 188	
@@ -203,14 +203,14 @@
 202	
 203	
 204	
-205	%s(Red)
-206	%s(Red)
-207	%s(Floating)
-208	%s(Alien/Floating)
-209	%s(Alien)
-210	%s(Alien)
-211	%s(Alien/Floating)
-212	%s(Alien/Floating)
+205	Capy
+206	Berserkory
+207	Brollow
+208	Calamary
+209	Alpacky
+210	Elder Sloth
+211	Bun Bun Symbiote
+212	Raging Bahamut Cat
 213	
 214	
 215	
@@ -230,11 +230,11 @@
 229	
 230	
 231	
-232	%s(Angel)
+232	Cruel Angel Clionel
 233	
 234	
-235	%s
-236	%s(Floating)
+235	Mr. Mole
+236	The Perfect Cyclone
 237	
 238	
 239	
@@ -252,25 +252,25 @@
 251	
 252	
 253	
-254	%s(Angelic)
-255	%s(Red / Black)
-256	%s(Black)
-257	%s
-258	%s
+254	Mr. Angel
+255	Two Can
+256	Tackey
+257	King Wahwah
+258	Codename "Red Riding"
 259	
 260	
-261	%s(Angel)
+261	Boraphim
 262	
 263	
 264	
 265	
-266	%s
-267	%s(Red)
+266	Henry
+267	Hannya
 268	
 269	
 270	
-271	%s(Alien/Floating)
-272	%s(Floating)
+271	Queen B
+272	Li'l Bun Bun
 273	
 274	
 275	
@@ -278,21 +278,21 @@
 277	
 278	
 279	
-280	%s(Black)
+280	Razorback
 281	
 282	
 283	
-284	%s(Zombie)
-285	%s(Zombie)
-286	%s(Zombie)
-287	%s(Zombie)
-288	%s(Zombie)
-289	%s(Zombie)
-290	%s(Zombie)
-291	%s(Zombie)
-292	%s(Zombie)
-293	%s(Zombie)
-294	%s(Zombie)
+284	Zoge
+285	Znache
+286	Zomboe
+287	Zigge
+288	Zackie Peng
+289	Zory
+290	Zir Zeal
+291	Zang Roo
+292	Zroco
+293	Lord Gravey
+294	Zyclone
 295	
 296	
 297	
@@ -301,22 +301,22 @@
 300	
 301	
 302	
-303	%s(Zombie)
-304	%s(Zombie)
+303	Miss Haka
+304	Big Sal
 305	
 306	
 307	
 308	
-309	%s(Zombie)
-310	%s(Zombie)
+309	Coffin Zoge
+310	Zamelle
 311	
 312	
 313	
 314	
 315	
-316	%s(Zombie)
-317	%s(Zombie)
-318	%s
+316	Inumusha
+317	Daboo of the Dead
+318	Dolphina
 319	
 320	
 321	
@@ -338,7 +338,7 @@
 337	
 338	
 339	
-340	%s(Angel)
+340	Cala Maria
 341	
 342	
 343	
@@ -352,20 +352,20 @@
 351	
 352	
 353	
-354	%s
-355	%s
+354	Hermit Cat
+355	Croakley
 356	
 357	
 358	
 359	
-360	%s(Alien)
-361	%s(Alien)
-362	%s(Alien)
-363	%s(Alien)
-364	%s(Alien)
-365	%s(Alien)
-366	%s(Alien/Floating)
-367	%s(Floating)
+360	Shibalien Elite
+361	Star Peng
+362	General GreGory
+363	Le'Solar
+364	Project A
+365	Corporal Weyland
+366	Spacefish Jones
+367	The Cat God
 368	
 369	
 370	
@@ -373,20 +373,20 @@
 372	
 373	
 374	
-375	%s(Angel / Alien)
+375	Youcan
 376	
-377	%s(Alien)
+377	Super Cosmic Cyclone
 378	
-379	%s(Angel)
-380	%s
+379	Winged Pigge
+380	Mystic Mask Yulala
 381	
 382	
 383	
 384	
 385	
 386	
-387	%s(Red)
-388	%s(Alien)
+387	Hackey
+388	UltraBaaBaa
 389	
 390	
 391	
@@ -403,52 +403,52 @@
 402	
 403	
 404	
-405	%s(Floating)
-406	%s(Relic)
-407	%s(Relic)
+405	Mecha-Bun
+406	Relic Bun-Bun
+407	Relic Doge
 408	
 409	
 410	
 411	
-412	%s(Relic)
-413	%s(Relic)
-414	%s(Relic/Floating)
+412	Sir Rel
+413	Oldhorn
+414	Othom
 415	
 416	
-417	%s(Alien)
-418	%s(Alien)
-419	%s(Cool Dude)
-420	%s(Relic)
+417	Kid Tappa
+418	Ribbo
+419	Cat God
+420	Loris
 421	
 422	
-423	%s(Relic/Floating)
-424	%s(Relic)
+423	Lowkey
+424	M. Ost
 425	
 426	
-427	%s(Zombie)
-428	%s(Zombie)
+427	Cadaver Bear
+428	Dread Bore
 429	
 430	
-431	%s(Black)
+431	Bakoo
 432	
 433	
 434	
 435	
 436	
 437	
-438	%s(Relic)
+438	Primeval Cyclone
 439	
 440	
 441	
 442	
-443	%s(Alien)
-444	%s(Alien)
-445	%s(Alien)
-446	%s(Cool Dude)
-447	%s(Alien/Floating)
+443	Mesocosmocyclone
+444	Gardeneel Bros.
+445	Axoloty
+446	Final Boss Giga-God
+447	Filibuster Obstructa
 448	
 449	
-450	%s(Relic)
+450	Dogumaru
 451	
 452	
 453	
@@ -466,8 +466,8 @@
 465	
 466	
 467	
-468	%s (Zombie)
-469	%s (Zombie)
+468	Zuche
+469	The Thrillerz
 470	
 471	
 472	
@@ -499,4 +499,3 @@
 498	
 499	
 500	
-501										
