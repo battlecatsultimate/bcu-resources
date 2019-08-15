@@ -994,6 +994,17 @@
 001-199-001	Revenge of Carnage (Merciless)
 001-200		
 001-200-000	
+001-201		Queen's Condemnation
+001-201-000	Honey Drip (Deadly)
+001-201-001	Royal Jelly Hell (Merciless)
+001-202		
+001-202-000	
+001-202-001	
+001-203		The 3rd Dimension
+001-203-000	Revenge of the Wormhole (Merciless)
+001-203-001	Wrath of the Wormhole (Merciless)
+001-204		Mystery Package
+001-204-000	Sender Unknown
 002			Collab
 002-000		
 002-000-000	
@@ -1410,6 +1421,21 @@
 002-097-002	
 002-097-003	
 002-097-004	
+002-098		
+002-098-000	
+002-098-001	
+002-098-002	
+002-098-003	
+002-098-004	
+002-098-005	
+002-098-006	
+002-099		
+002-099-000	
+002-099-001	
+002-099-002	
+002-102		Unit-13 Strikes!
+002-102-000	It's Not Your Fault (Veteran)
+002-102-001	We'll Meet Again (Merciless)
 004			Extra
 004-000
 004-001
@@ -1556,6 +1582,20 @@
 013-012-003	Caged Carp
 013-012-004	Quay of Camels
 013-012-005	Endless Dead Zone
+013-013		Exile's Resort
+013-013-000	Holiday Atonement
+013-013-001	A Private Rainforest
+013-013-002	Rude on the Beach
+013-013-003	13th Ward Resident
+013-013-004	Spa of Ascension
+013-013-005	Wonders of Nature
+013-014		Roads of Torment
+013-014-000	Pulling Hair
+013-014-001	Mermaid Sauce
+013-014-002	Lord's Lecture
+013-014-003	Cracked Column
+013-014-004	Guardian of Innocence
+013-014-005	Total Myopia
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

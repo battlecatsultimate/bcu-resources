@@ -305,7 +305,7 @@
 304	Mighty Kat-A-Pult	CAT-6 Siege Engine	CAT-8 Behemoth
 305	Mighty Drednot	B.C.S. Lionheart	B.C.S. Tigerclaw
 306	Mighty Bomburr	NEK-0 Sky Fortress	NEK-02 Air Citadel
-307	Vaulter Cat	Polevaulter Cat 	Housewife Cat 
+307	Vaulter Cat	Polevaulter Cat	Housewife Cat
 308	Gardener Cat	Lumbercat	Weedwacker Cat
 309			
 310	Yuletide Nurse	Yule Knight Nurse	
@@ -322,7 +322,7 @@
 321			
 322	Sarukani	Rock Revengers	The One-Hit Wonders
 323	Miyamoku Musashi	Heroic Musashi	Awakened Musashi
-324	Curling Cat	Zamboney Cat	
+324	Curling Cat	Zamboney Cat	Green Shell Cat
 325	Welterweight Cat	Heavyweight Cat	Ectoweight Cat
 326	Mobius	Miraculous Mobius	
 327	Belial	Reckless Belial	
@@ -399,7 +399,7 @@
 398			
 399	Mentori	Mentori CC	
 400	Imoto	Imoto CC	
-401	Voli	Volta	
+401	Voli	Volta	Gigavolta
 402	Shinji & Cat	Plug Suit Shinji	Plug Suit Shinji Black
 403	Gendo & Fuyutsuki Cats	Moon Gendo & Fuyutsuki Cats	
 404	Giraffe Unit-01	Giraffe Unit-02	
@@ -491,5 +491,12 @@
 490	Ritsuko Akagi	First Officer Ritsuko	
 491	Rei Ayanami (???)	Awakened Ayanami	
 492			
-493	Gaia the Creator	Gaia the Supreme 	
+493	Gaia the Creator	Gaia the Supreme	
 494	Seabreeze Coppermine	Seabreeze Coppermine κ	
+495			
+496	Narita Kaihime	Wargod Kaihime	
+497	Shakurel Cat	Shakurel Macho Cat	
+498	Shakurel Lion	Shakurel Lion CC	
+499	Shakurel Tiger	Shakurel Tiger CC	
+500	Shakurel Panda	Shakurel Panda CC	
+501	Cat Bros	Baka Cat Bros	
