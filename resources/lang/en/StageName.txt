@@ -1931,7 +1931,9 @@
 003-009-044	Hollywood
 003-009-045	Alaska
 003-009-046	Hawaii
-003-009-047	Moon
+003-009-047	Moon Ch.1
+003-009-049	Moon Ch.2
+003-009-050	Moon Ch.3
 003-010		ItF Ch.1 Zombie
 003-010-000	Japan
 003-010-001	Korea
