@@ -1736,7 +1736,7 @@
 003-005-045	Brazil
 003-005-046	Floating Continent
 003-005-047	Moon
-003-006		ItF Ch.1
+003-006		CotC Ch.1
 003-006-000	Earth
 003-006-001	Mars
 003-006-002	Jupiter
@@ -1785,7 +1785,7 @@
 003-006-045	Andromeda
 003-006-046	Black Hole
 003-006-047	The Big Bang
-003-007		ItF Ch.2
+003-007		CotC Ch.2
 003-007-000	Earth
 003-007-001	Mars
 003-007-002	Jupiter
@@ -1834,7 +1834,7 @@
 003-007-045	Andromeda
 003-007-046	Black Hole
 003-007-047	The Big Bang
-003-008		ItF Ch.3
+003-008		CotC Ch.3
 003-008-000	Earth
 003-008-001	Mars
 003-008-002	Jupiter
