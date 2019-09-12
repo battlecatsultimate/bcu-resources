@@ -1005,6 +1005,42 @@
 001-203-001	Wrath of the Wormhole (Merciless)
 001-204		Mystery Package
 001-204-000	Sender Unknown
+001-205		Dead by Encore
+001-205-000	Prisoner's Progress (Merciless)
+001-205-001	March to Death (Merciless)
+001-206		The Battle Cats Together!
+001-206-000	Play Battle Cats Together!
+001-206-001	Team Up & Win!
+001-206-002	Over 350 Cats!
+001-206-003	Play All You Want!
+001-206-004	Legend Stages Too!
+001-206-005	Minigames Galore!
+001-206-006	At the Nintendo eShop!
+001-206-007	But the App's Fun Too :)
+001-207		King Wahwah's Return
+001-207-000	Revenge of N-1 (Merciless)
+001-207-001	Wrath of the Dogelord (Merciless)
+001-208		Clan of the Maniacs
+001-208-000	The Wild Dance (Deadly)
+001-208-001	Insane Rhythms (Merciless)
+001-209		Meow Meow Day
+001-209-000	CAT DAY
+001-210		Duel on the Prarie
+001-210-000	Vanguard (Easy)
+001-210-001	Elite (Easy)
+001-210-002	Commander (Easy)
+001-211		Duel at Sunset
+001-211-000	Vanguard (Normal)
+001-211-001	Elite (Normal)
+001-211-002	Commander (Hard)
+001-212		Duel Under the Stars
+001-212-000	Vanguard (Hard)
+001-212-001	Elite (Hard)
+001-212-002	Commander (Veteran)
+001-213		Duel on the Dunes
+001-213-000	Vanguard (Veteran)
+001-213-001	Elite (Expert)
+001-213-002	Commander (Insane)
 002			Collab
 002-000		
 002-000-000	
@@ -1436,6 +1472,12 @@
 002-102		Unit-13 Strikes!
 002-102-000	It's Not Your Fault (Veteran)
 002-102-001	We'll Meet Again (Merciless)
+002-105		Shakurel Planet
+002-105-000	The Jaws of Nature
+002-105-001	Gnawin' Bones
+002-105-002	Chompin' Trees
+002-105-003	Munchin' Rocks
+002-105-004	The Future Is Chins
 004			Extra
 004-000
 004-001
@@ -2189,6 +2231,20 @@
 013-014-003	Cracked Column
 013-014-004	Guardian of Innocence
 013-014-005	Total Myopia
+013-015		Heaven's Back Alley
+013-015-000	Eager Entryway
+013-015-001	Fainting Porch
+013-015-002	Hangover Couch
+013-015-003	Tidy Kitchen
+013-015-004	Bathtub of Whimsy
+013-015-005	Lamb's Boudoir
+013-016		Battle in the Bath
+013-016-000	Steamworks Ltd.
+013-016-001	Sticky Shower
+013-016-002	Standing Sauna
+013-016-003	Chilly Pool
+013-016-004	Umibozu's House
+013-016-005	Hot Spring Reception
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

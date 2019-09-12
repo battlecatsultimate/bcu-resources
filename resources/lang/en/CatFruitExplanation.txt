@@ -332,7 +332,7 @@
 331	<br><br>
 332	<br><br>
 333	<br><br>
-334	<br><br>
+334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
 335	<br><br>
 336	<br><br>
 337	<br><br>
@@ -500,3 +500,6 @@
 499	<br><br>
 500	<br><br>
 501	<br><br>
+502	<br><br>
+503	<br><br>
+504	<br><br>
