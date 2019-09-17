@@ -332,7 +332,7 @@
 331	Bunny & Canard	Disciple Psychoduck	
 332	Easter Neneko	Hoppity Neneko	
 333	Shadow Gao	Diabolic Gao	
-334	Trickster Himeyuri	Himeyuri Ninetails	
+334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
 335	Sea Maiden Ruri	Sea Mistress Ruri	
 336	Queen Reika	Pharoah Reika	
 337			
@@ -380,7 +380,7 @@
 379	Volley Cat	Ballet Cat	Curry Cat
 380	D'artanyan	Meow-sketeer	
 381	Farmer Cat	Harvest Cat	
-382	Glass Cat	Macho Glass Cat	
+382	Glass Cat	Macho Glass Cat	Macho Crystal Cat
 383	Masked Yulala	Mystic Yulala	
 384	Satori Hikami & Cat	Satori Hikami & Cat CC	
 385	Akio Yabe	Akio Yabe CC	Akio & Gunder CC
@@ -482,7 +482,7 @@
 481	Doktor Heaven	Professor Abyss	
 482			
 483			
-484			
+484	Li'l Valkyrie Dark	Dark Rider Valkyrie	
 485			
 486			
 487	Eva Unit-08	Eva Unit-08 & Cat	
@@ -500,3 +500,6 @@
 499	Shakurel Tiger	Shakurel Tiger CC	
 500	Shakurel Panda	Shakurel Panda CC	
 501	Cat Bros	Baka Cat Bros	
+502	Myrcia	Myrcia, type ξ	
+503			
+504			
