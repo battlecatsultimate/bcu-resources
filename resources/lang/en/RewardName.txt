@@ -19,10 +19,10 @@
 33	Green Catfruit Seed
 34	Yellow Catfruit Seed
 35	Purple Catfruit
-31	Red Catfruit
-32	Blue Catfruit
-33	Green Catfruit
-34	Yellow Catfruit
+36	Red Catfruit
+37	Blue Catfruit
+38	Green Catfruit
+39	Yellow Catfruit
 40	Epic Catfruit
 41	Elder Catfruit Seed
 42	Elder Catfruit
