@@ -333,7 +333,7 @@
 332	Easter Neneko	Hoppity Neneko	
 333	Shadow Gao	Diabolic Gao	
 334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
-335	Sea Maiden Ruri	Sea Mistress Ruri	
+335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri
 336	Queen Reika	Pharoah Reika	
 337			
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
@@ -440,7 +440,7 @@
 439	Empress Chronos	Chronos the Infinite	
 440	Bebe	Nagisa & Cat	
 441	D'arktanyan	Valiant D'arktanyan	
-442	Lone Cat and Kitten	Vendor Cat and Kitten	
+442	Lone Cat and Kitten	Vendor Cat and Kitten	Tourist Cat
 443	Driller Cat	Power Driller Cat	
 444	Piledriver Cat	Power Piledriver Cat	
 445	Cutter Cat	Power Cutter Cat	
@@ -503,3 +503,17 @@
 502	Myrcia	Myrcia, type ξ	
 503			
 504			
+505	Relentless Gladios	Gladios the Annihilator	
+506			
+507	Mightycat	Supercat	
+508	Ryu Cat	Ryu Cat CC	
+509	Chun-Li Cat	Chun-Li Cat CC	
+510	Akuma	Akuma CC	
+511	Ryu	Ryu CC	
+512	Chun-Li	Chun-Li CC	
+513	Guile	Guile CC	
+514	Zangief	Zangief CC	
+515	Blanka	Blanka CC	
+516	Dhalsim	Dhalsim CC	
+517	Ken	Ken CC	
+518	Akuma Giraffe	Akuma Lion	
