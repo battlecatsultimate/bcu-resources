@@ -1044,6 +1044,12 @@
 001-213-000	Vanguard (Veteran)
 001-213-001	Elite (Expert)
 001-213-002	Commander (Insane)
+001-214		A Deeper Dream
+001-214-000	Wrath of the Dreamer (Deadly)
+001-214-001	Revenge of the Dreamer (Merciless)
+001-215		Blue Impact
+001-215-000	Puffer Planet (Merciless)
+
 002			Collab
 002-000		
 002-000-000	
@@ -1481,6 +1487,65 @@
 002-105-002	Chompin' Trees
 002-105-003	Munchin' Rocks
 002-105-004	The Future Is Chins
+002-107		Street Fighter (Easy)
+002-107-000	Warrior of Nature
+002-107-001	Illuminating Flame
+002-107-002	Rush & Blaze
+002-107-003	BONUS STAGE
+002-107-004	Blue Jade
+002-107-005	Iron Cyclone
+002-107-006	Impregnable Fortress
+002-107-007	Invincible Fist
+002-108		Street Fighter (Normal)
+002-108-000	Illuminating Flame
+002-108-001	Iron Cyclone
+002-108-002	Blue Jade
+002-108-003	BONUS STAGE
+002-108-004	Rush & Blaze
+002-108-005	Warrior of Nature
+002-108-006	Invincible Fist
+002-108-007	Impregnable Fortress
+002-109		Street Fighter (Hard)
+002-108-000	Iron Cyclone
+002-108-001	Impregnable Fortress
+002-108-002	Rush & Blaze
+002-108-003	BONUS STAGE
+002-108-004	Illuminating Flame
+002-108-005	Blue Jade
+002-108-006	Invincible Fist
+002-108-007	Warrior of Nature
+002-110		New Challenger
+002-110-000	VS RYU (Easy)
+002-111		New Challenger
+002-111-000	VS RYU (Expert)
+002-112		New Challenger
+002-112-000	VS CHUN-LI (Easy)
+002-113		New Challenger
+002-113-000	VS CHUN-LI (Expert)
+002-114		New Challenger
+002-114-000	VS GUILE (Easy)
+002-115		New Challenger
+002-115-000	VS GUILE (Expert)
+002-116		New Challenger
+002-116-000	VS ZANGIEF (Easy)
+002-117		New Challenger
+002-117-000	VS ZANGIEF (Expert)
+002-118		New Challenger
+002-118-000	VS BLANKA (Easy)
+002-119		New Challenger
+002-119-000	VS BLANKA (Expert)
+002-120		New Challenger
+002-120-000	VS DHALSIM (Easy)
+002-121		New Challenger
+002-121-000	VS DHALSIM (Expert)
+002-122		New Challenger
+002-122-000	VS KEN (Easy)
+002-123		New Challenger
+002-123-000	VS KEN (Expert)
+002-124		New Challenger
+002-124-000	Master of the Fist (Veteran)
+002-124-001	Sekia Goshoha (Deadly)
+
 004			Extra
 004-000
 004-001
