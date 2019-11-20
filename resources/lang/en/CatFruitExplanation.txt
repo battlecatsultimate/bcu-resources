@@ -334,7 +334,7 @@
 333	<br><br>
 334	True Form evolution improves all stats!<br>Plus, Floating and Angel enemies are<br>slowed for longer period of time!
 335	True Form evolution gains improved attack<br>power and defense! Plus, Red enemies are<br>weakened for an even longer time!
-336	<br><br>
+336	True form gains improved attack speed<br>and number of pushbacks against enemies.<br>
 337	<br><br>
 338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
 339	<br><br>

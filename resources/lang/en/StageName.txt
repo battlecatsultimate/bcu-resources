@@ -1049,6 +1049,8 @@
 001-214-001	Revenge of the Dreamer (Merciless)
 001-215		Blue Impact
 001-215-000	Puffer Planet (Merciless)
+001-217		Courts of Torment
+001-217-000	The Pure Land (Merciless)
 
 002			Collab
 002-000		
@@ -2379,6 +2381,20 @@
 013-016-003	Chilly Pool
 013-016-004	Umibozu's House
 013-016-005	Hot Spring Reception
+013-017		Ancient Mountains
+013-017-000	Famine Village
+013-017-001	The Night of Claws
+013-017-002	Rocky Surface
+013-017-003	Exaggeration Falls
+013-017-004	Abandoned Desire
+013-017-005	Slave to Instinct
+013-018		Marine Ministry
+013-018-000	Beachhead Invasion
+013-018-001	Forever Fishing
+013-018-002	Triton's Cave
+013-018-003	Nighttime Lure
+013-018-004	The Bloody Wharf
+013-018-005	Multitetrapod
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

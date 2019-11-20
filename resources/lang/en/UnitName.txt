@@ -334,7 +334,7 @@
 333	Shadow Gao	Diabolic Gao	
 334	Trickster Himeyuri	Himeyuri Ninetails	Fox Queen Himeyuri
 335	Sea Maiden Ruri	Sea Mistress Ruri	Mer-Queen Ruri
-336	Queen Reika	Pharoah Reika	
+336	Queen Reika	Pharoah Reika	Eternal Reika
 337			
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
 339			
@@ -493,7 +493,7 @@
 492			
 493	Gaia the Creator	Gaia the Supreme	
 494	Seabreeze Coppermine	Seabreeze Coppermine κ	
-495			
+495	Matador Cat	Flamenco Cat	
 496	Narita Kaihime	Wargod Kaihime	
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
@@ -517,3 +517,9 @@
 516	Dhalsim	Dhalsim CC	
 517	Ken	Ken CC	
 518	Akuma Giraffe	Akuma Lion	
+519	Lasvoss	Ultimate Lasvoss	
+520	Good-Luck Ebisu	Bad-Luck Ebisu	
+521	Medusa Cat	Twintail Medusa Cat	
+522	Nymph Cat	Medalist Cat	
+523	Wushu Cat	Sifu Cat	
+524			
