@@ -425,7 +425,7 @@
 424	<br><br>
 425	<br><br>
 426	True Form evolution gains improved attack<br>power and defense. Plus, immune to <br>Curses, and Strong against Relic enemies.
-427	<br><br>
+427	True form improves defense and even<br>longer debuff effects. Weakens Relics,<br>and gains immunity to Curses.
 428	<br><br>
 429	<br><br>
 430	<br><br>
@@ -517,3 +517,13 @@
 516	<br><br>
 517	<br><br>
 518	<br><br>
+519	<br><br>
+520	<br><br>
+521	<br><br>
+522	<br><br>
+523	<br><br>
+524	<br><br>
+525	<br><br>
+526	<br><br>
+527	<br><br>
+528	<br><br>

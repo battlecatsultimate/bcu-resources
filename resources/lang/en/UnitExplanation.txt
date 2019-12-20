@@ -425,7 +425,7 @@
 424			
 425			
 426	An ancient superweapon rented out from a<br>mysterious lab. Cat only has a learner's permit,<br>so its true power is not yet realized (Area Attack)	Made some improvements without permission...<br>Replacing the vintage armor with titanium<br>definitely violates the rental agreement. (Area Atk)	Even after the fine, Cat couldn't resist more custom<br>work. Now features experimental tech based on<br>ancient prototype schematics (Area Attack)
-427	A brave band of Cats out to defeat the King of Evil.<br>Long-range Area strikes have chance of Critical.<br>100% chance to weaken Red, Black, and Floating.	The Chosen One and 11 courageous adventurers.<br>Long-range Area strikes have chance of Critical.<br>100% chance to weaken Red, Black, and Floating.	
+427	A brave band of Cats out to defeat the King of Evil.<br>Long-range Area strikes have chance of Critical.<br>100% chance to weaken Red, Black, and Floating.	The Chosen One and 11 courageous adventurers.<br>Long-range Area strikes have chance of Critical.<br>100% chance to weaken Red, Black, and Floating.	Our adventurers take their quest to the skies!<br>Long-range Area strikes have chance of Critical.<br>100% Weaken vs Red, Black, Floating, Relics.
 428			
 429			
 430			
@@ -523,3 +523,7 @@
 522	Some rude "hero" dropped his axes right in her pond.<br>No time for litterbugs, no matter how handsome they<br>might be! Long Range Area attacks.	Somehow this Cat qualified for the tournament...<br>Somehow she won Gold. An investigation is<br>underway. Long-range Area Attacks.	
 523	Top student at a discount martial arts school that<br>costs $40 per month. Goes twice weekly after work.<br>Tough vs Zombies.	Owner of a discount martial arts school. His insistence<br>on using custom equipment disqualifies him from<br>official competitions. Tough vs Zombies.	
 524			
+525	Young exec at AxeCorp, managing operations<br>at the mountain office with intern Li'l Bear.<br>Might Slow Angels and strike a Savage Blow.	Gathered the whole Beast Division for a unified<br>fight against a very hostile acquisition attempt.<br>Might Slow Angels and strike a Savage Blow.	
+526	Overflowing with holiday cheer, they'll smash<br>any grumps who won't get into the Xmas spirit.<br>Massive Area damage to Angels and Floating.	Two good kids who are never on Santa's naughty<br>list. Always the first to help with Xmas decorations.<br>Massive Area damage to Angels and Floating.	
+527	When I woke up, I found myself turned into a slime.<br>Now I wander the city bullying low-level heroes.<br>100% Wave Attack chance.	Uncanny beasts that appear en masse, soothing<br>the eyes and stinging the skin of passersby.<br>Bewilder your enemy with Wave Attacks!	
+528	A Cat of the steppes, master of the dance.<br>Years of practice developed powerful thighs<br>to deliver massive damage to Relics.	On fearsome winter nights, enjoys a powerful<br>liquor to warm himself and enhance his<br>leg power. Massive damage to Relics!	

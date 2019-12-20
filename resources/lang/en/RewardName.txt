@@ -53,7 +53,7 @@
 93	Lucky Ticket
 94	G Ticket
 95	G Ticket
-86	G Ticket
+96	G Ticket
 97	G Ticket
 98	G Ticket
 99	Lucky Ticket
@@ -62,6 +62,7 @@
 102	G Ticket
 103	G Ticket
 104	Lucky Ticket
+105	Leadership
 106	G Ticket
 107	Lucky Ticket
 108	G Ticket
@@ -75,6 +76,12 @@
 117	Lucky Ticket
 118	G Ticket
 119	G Ticket
+120	G Ticket
+121	G Ticket
+122	Lucky Ticket
+124	G Ticket
+125	G Ticket
+126 Lucky Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -154,6 +161,12 @@
 1160	Meowla Meowla
 1042	Dogumaru
 1043	Cat Bros
+1044	Mightycat
+1167	Ryu Cat
+1168	Akuma Giraffe
+1045	Medusa Cat
+1046	Slime Cat
+1047	Cossack Cat
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -314,8 +327,11 @@
 16324	Awakened Musashi
 10325	Green Shell Cat
 15326	Ectoweight Cat
+15335	Fox Queen Himeyuri
+15336	Mer-Queen Ruri
+15337	Eternal Reika
 15339	Immortal Yoshimoto
-15352	Ultima Twinstars, type Φ
+15352	Divine Twinstars
 15356	Orbital Annihilator Ragnarok
 15360	Bazibastra
 15361	Mizuririn
@@ -326,6 +342,7 @@
 15377	Catellite
 15378	The Kitty of Liberty
 10380	Curry Cat
+10383	Macho Crystal Cat
 10386	Akio & Gunder CC
 15391	Baseball Mask α
 15392	Baseball Mask β
@@ -341,3 +358,5 @@
 15415	Unit-02, Code 777
 15418	Subterra Sentinels
 16427	Ultimate Mecha-Bun
+15428	Cat Quest Heroes
+10443	Tourist Cat

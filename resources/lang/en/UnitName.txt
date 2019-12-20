@@ -227,8 +227,8 @@
 226	Warlock and Pierre	Dark Merchant Babil	Mad Doctor Klay
 227	Pumpcat	Cat O'Lantern	
 228	Gloomy Neneko	Witchy Neneko	
-229	Hallowindy	Hallowindy α	
-230	Spooky Thundia	Spooky Thundia β	
+229	Hallowindy	Hallowindy, type α	
+230	Spooky Thundia	Spooky Thundia, type β	
 231			
 232			
 233			
@@ -239,9 +239,9 @@
 238	Rich Cat III	Rich Cat Sr.	
 239	Sniper the Recruit	Sniper the Heavy	
 240	Togeluga	Togelan Pasalan	Shishilan Pasalan
-241	Frosty Kai	Frosty Kai, Type μ	
-242	Santa Kuu	Santa Kuu, Type γ	
-243	Holy Coppermine	Holy Coppermine, Type κ	
+241	Frosty Kai	Frosty Kai, type μ	
+242	Santa Kuu	Santa Kuu, type γ	
+243	Holy Coppermine	Holy Coppermine, type κ	
 244	A Gift of Cats	Cat's Gift	
 245	Li'l Gross Cat	Li'l Sexy Legs Cat	Li'l Macho Legs Cat
 246	Li'l Cow Cat	Li'l Giraffe Cat	Li'l Lion Cat
@@ -272,7 +272,7 @@
 271	Shining Amaterasu	Glorious Amaterasu	
 272	Splendid Ganesha	Exalted Ganesha	
 273	Cheerleader Cat	Waitress Cat	Soba Cat
-274	Tropical Kalisa	Tropical Kalisa X	
+274	Tropical Kalisa	Tropical Kalisa, type X	
 275	Midsummer Rabbit	Midsummer Cat	
 276	Sunny Neneko	Seaside Neneko	
 277	Funghi	Funghi 'n' Cat	
@@ -349,7 +349,7 @@
 348			
 349			
 350			
-351	Twinstars	Twinstars, type Φ	Ultima Twinstars, type Φ
+351	Twinstars	Twinstars, type Φ	Divine Twinstars
 352	Hermit Cat	Grandmaster Cat	
 353			
 354	Seashore Kai	Seashore Kai, type μ	
@@ -425,7 +425,7 @@
 424			
 425			
 426	Mecha-Bun	Mecha-Bun Mk II	Ultimate Mecha-Bun
-427	Cat Clan Heroes	Cat Guild Heroes	
+427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes
 428			
 429			
 430			
@@ -436,7 +436,7 @@
 435	Li'l Valkyrie	Wind Dancer Valkyrie	
 436	Nobiluga	Nobilan Pasalan	
 437	Cat God the Great	Cat God the Awesome	
-438	Waverider Kuu	Waverider Kuu γ	
+438	Waverider Kuu	Waverider Kuu, type γ	
 439	Empress Chronos	Chronos the Infinite	
 440	Bebe	Nagisa & Cat	
 441	D'arktanyan	Valiant D'arktanyan	
@@ -492,7 +492,7 @@
 491	Rei Ayanami (???)	Awakened Ayanami	
 492			
 493	Gaia the Creator	Gaia the Supreme	
-494	Seabreeze Coppermine	Seabreeze Coppermine κ	
+494	Seabreeze Coppermine	Seabreeze Coppermine, type κ	
 495	Matador Cat	Flamenco Cat	
 496	Narita Kaihime	Wargod Kaihime	
 497	Shakurel Cat	Shakurel Macho Cat	
@@ -523,3 +523,7 @@
 522	Nymph Cat	Medalist Cat	
 523	Wushu Cat	Sifu Cat	
 524			
+525	Kintaro	Kinrangers RoboForce	
+526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ	
+527	Slime Cat	Jellycat	
+528	Cossack Cat	Vodka Cat	

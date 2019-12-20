@@ -1051,7 +1051,27 @@
 001-215-000	Puffer Planet (Merciless)
 001-217		Courts of Torment
 001-217-000	The Pure Land (Merciless)
-
+001-218		Courts of Torment
+001-219		Papuu's Paradise
+001-219-000	Saintly Sister (Merciless)
+001-220		The Old Queen
+001-220-000	I'll Be Bug (Merciless)
+001-221		You Nears!
+001-221-000	Happy 2020!
+001-222		Growing Epic
+001-222-000	Spectrum of Truth (Deadly)
+001-222-001	Miracle Iris (Deadly)
+001-223		Most Defeated 2019
+001-223-000	Surprising #5
+001-223-001	Not Uncommon #4
+001-223-002	As Expected #3
+001-223-003	Runner-Up #2
+001-223-004	Unbelievable #1
+001-223-005	Unseen in 2019
+001-224		Lunar New Year
+001-224-000	Year of the Rat
+001-225		Mystery Package
+001-225-000	Sender Unknown
 002			Collab
 002-000		
 002-000-000	
@@ -2395,6 +2415,13 @@
 013-018-003	Nighttime Lure
 013-018-004	The Bloody Wharf
 013-018-005	Multitetrapod
+013-019		The Devils' Academy
+013-019-000	A Classroom in Ruins
+013-019-001	Lonely Goldfish
+013-019-002	Demon COO
+013-019-003	Principal's Rebellion
+013-019-004	Bell Collector
+013-019-005	Campus Law
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
