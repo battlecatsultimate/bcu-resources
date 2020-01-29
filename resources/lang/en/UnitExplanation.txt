@@ -429,7 +429,7 @@
 428			
 429			
 430			
-431	Prodigy in the netherworld's Office of Infernal<br>Investigations, with just over 665 cases solved.<br>Wave attacks might freeze Aliens/Floating.	This hardened veteran got too close to the truth<br>and uncovered a conspiracy scarier than hell itself.<br>Wave attacks might freeze Aliens/Zombies.	
+431	Prodigy in the netherworld's Office of Infernal<br>Investigations, with just over 665 cases solved.<br>Wave attacks might freeze Aliens/Floating.	This hardened veteran got too close to the truth<br>and uncovered a conspiracy scarier than hell itself.<br>Wave attacks might freeze Aliens/Zombies.	Realized his true power after bringing the corrupt<br>archdemons to justice. Time for the final judgment!<br>Wave attacks 100% Freeze Zombies.
 432	Joining the fight from Betakkuma!<br>Weirdly cute white bear with some slick moves.<br>Might knockback Aliens.	Joining the fight from Betakkuma!<br>Changed colors after training by an assassin's guild.<br>Might knockback Aliens.	
 433	Inspired by a weirdly cute white<br>bear, has mastered those slick moves.<br>Might knockback Black enemies.	Embracing its savage instincts, it<br>rains rapid-fire blows on its enemy.<br>Might knockback Black enemies.	
 434			
@@ -527,3 +527,7 @@
 526	Overflowing with holiday cheer, they'll smash<br>any grumps who won't get into the Xmas spirit.<br>Massive Area damage to Angels and Floating.	Two good kids who are never on Santa's naughty<br>list. Always the first to help with Xmas decorations.<br>Massive Area damage to Angels and Floating.	
 527	When I woke up, I found myself turned into a slime.<br>Now I wander the city bullying low-level heroes.<br>100% Wave Attack chance.	Uncanny beasts that appear en masse, soothing<br>the eyes and stinging the skin of passersby.<br>Bewilder your enemy with Wave Attacks!	
 528	A Cat of the steppes, master of the dance.<br>Years of practice developed powerful thighs<br>to deliver massive damage to Relics.	On fearsome winter nights, enjoys a powerful<br>liquor to warm himself and enhance his<br>leg power. Massive damage to Relics!	
+529	Young wanderer whose soul is a prison to 1000<br>vengeful ghosts. Trifle with her at your peril.<br>Long-range Surges might Knockback Traited!	Having at last encountered kindness and love, she<br>now commands her wraiths for the cause of light!<br>Long-range Surges w/ chance to Knockback Traited!	
+530			
+531	Lead in the hit drama "Trial of Teacher Bear".<br>Smashes anyone who steals his spotlight.<br>Delivers insane area damage to Traitless.	Production assistant on the set of "Teacher Bear".<br>Obliterates anyone who stands in front of him.<br>Delivers insane area damage to Black.	
+532	The weak shall serve the strong! Or so they say.<br>The founding ancestor of a proud warrior clan.<br>Area attacks might weaken non-Metal enemies.	The first of their line to terrorize enemies by<br>riding a ferocious Cat-beast into the enemy lines.<br>Area attacks might weaken non-Metal enemies.	

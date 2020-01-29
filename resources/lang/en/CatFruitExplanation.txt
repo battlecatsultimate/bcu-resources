@@ -429,7 +429,7 @@
 428	<br><br>
 429	<br><br>
 430	<br><br>
-431	<br><br>
+431	True form gains improved attack speed!<br>Plus, gains 100% chance of Freeze<br>and Strong vs Zombie enemies.
 432	<br><br>
 433	<br><br>
 434	<br><br>
@@ -527,3 +527,7 @@
 526	<br><br>
 527	<br><br>
 528	<br><br>
+529	<br><br>
+530	<br><br>
+531	<br><br>
+532	<br><br>

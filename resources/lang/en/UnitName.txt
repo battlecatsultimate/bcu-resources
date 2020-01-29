@@ -429,7 +429,7 @@
 428			
 429			
 430			
-431	Detective Vigler	Inspector Gabriel	
+431	Detective Vigler	Inspector Gabriel	Section Chief Gravicci
 432	Betakkuma	Black Betakkuma	
 433	Nekokkuma	Killer Nekokkuma	
 434			
@@ -527,3 +527,7 @@
 526	Snow Angel Twinstars	Snow Angel Twinstars, type Φ	
 527	Slime Cat	Jellycat	
 528	Cossack Cat	Vodka Cat	
+529	Kasli the Scourge	Ritual Saint Kasli	
+530			
+531	Teacher BearCat	Assassin BearCat	
+532	Urs & Fenrir	Urs & Minka	

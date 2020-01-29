@@ -1072,6 +1072,12 @@
 001-224-000	Year of the Rat
 001-225		Mystery Package
 001-225-000	Sender Unknown
+001-226		Bottom of the Swamp
+001-226-000	Flow Like the Stream (Merciless)
+001-227		Duel at the Lava Fields
+001-227-000	Vanguard (Insane)
+001-227-001	Elite (Deadly)
+001-227-002	Commander (Deadly)
 002			Collab
 002-000		
 002-000-000	
@@ -2422,6 +2428,13 @@
 013-019-003	Principal's Rebellion
 013-019-004	Bell Collector
 013-019-005	Campus Law
+013-020		The Gelatin Mines
+013-020-000	Furry Cavern
+013-020-001	Mandatory Fun
+013-020-002	Gas-Powered Birds
+013-020-003	Stars in the Sewers
+013-020-004	Postapocalypse Panic
+013-020-005	Lifesaving Shovel
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)

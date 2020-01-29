@@ -32,24 +32,26 @@
 47	Lucky Ticket
 48	Lucky Ticket
 49	Lucky Ticket
-50	CatsEye【EX】
-51	CatsEye【Rare】
-52	CatsEye【Super Rare】
-53	CatsEye【Uber Rare】
-54	CatsEye【Legend Rare】
-55	Catamin A
-56	Catamin B
-57	Catamin C
+50	Catseye [Special]
+51	Catseye [Rare]
+52	Catseye [Super Rare]
+53	Catseye [Uber Rare]
+54	Catseye [Legend]
+55	Catamin [A]
+56	Catamin [B]
+57	Catamin [C]
 75	Lucky Ticket
 76	Lucky Ticket
 77	G Ticket
+78	XP 100000
 85	Bricks
-86	Feather
+86	Feathers
 87	Coal
-88	Sprocket
+88	Sprockets
 89	Gold
 90	Meteorite
 91	Beast Bones
+92	Engineers
 93	Lucky Ticket
 94	G Ticket
 95	G Ticket
@@ -81,7 +83,8 @@
 122	Lucky Ticket
 124	G Ticket
 125	G Ticket
-126 Lucky Ticket
+126	Lucky Ticket
+127	Lucky Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -167,6 +170,8 @@
 1045	Medusa Cat
 1046	Slime Cat
 1047	Cossack Cat
+1048	Teacher BearCat
+1049	Urs & Fenrir
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -229,7 +234,6 @@
 10075	Xmas Pudding Cat
 15076	Divine Windy
 15077	Divine Thundia
-10078	SpringDroid
 10079	Space Marine Cat
 10080	Prisoner Cat
 10081	Gentleman Bros.
@@ -359,4 +363,5 @@
 15418	Subterra Sentinels
 16427	Ultimate Mecha-Bun
 15428	Cat Quest Heroes
+15432	Section Chief Gravicci
 10443	Tourist Cat
