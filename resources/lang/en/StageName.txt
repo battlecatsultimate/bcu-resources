@@ -440,7 +440,7 @@
 001-012-005	Lucifer Likes to Smile
 001-012-006	Zombies being Healthy
 001-012-007	Humans are Scarier
-000-013		Bears be Bare
+001-013		Bears be Bare
 001-013-000	Bear Grills
 001-013-001	Bearly Dressed
 001-013-002	With a Ton of Padding
@@ -942,7 +942,7 @@
 001-184-003	Different from the Ad
 001-184-004	Just What I Wanted
 001-185		Wrath of the Divine
-001-185-000	Wrath of A-Cyclone (Insane)
+001-185-001	Wrath of A-Cyclone (Insane)
 001-185-000	Revenge of A-Cyclone (Deadly)
 001-186		Ritual Confusion
 001-186-000	Hang onto Happiness
