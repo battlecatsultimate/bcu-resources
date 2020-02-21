@@ -183,9 +183,9 @@
 182	<br><br>
 183	<br><br>
 184	<br><br>
-185	<br><br>
+185	True Form evolution gains improved<br>defense, move speed, and attack range!<br>Critical attack chance is also improved!
 186	<br><br>
-187	<br><br>
+187	True Form evolution gains improved defense<br>and attack speed, but attack power is<br>weakened. Might Dodge Angel attacks!
 188	<br><br>
 189	<br><br>
 190	<br><br>
@@ -342,8 +342,8 @@
 341	<br><br>
 342	<br><br>
 343	<br><br>
-344	<br><br>
-345	<br><br>
+344	True Form evolution gets<br>improvements to all stats.<br>
+345	True Form evolution gains improved<br>defense and attack power! Attack speed is<br>slowed, but gains 100% Freeze vs Floating.
 346	<br><br>
 347	<br><br>
 348	<br><br>
@@ -434,7 +434,7 @@
 433	<br><br>
 434	<br><br>
 435	<br><br>
-436	<br><br>
+436	True Form evolution has deploy cost halved!<br>Recovery time after deploy also reduced!<br>
 437	<br><br>
 438	<br><br>
 439	<br><br>
@@ -531,3 +531,4 @@
 530	<br><br>
 531	<br><br>
 532	<br><br>
+533	<br><br>

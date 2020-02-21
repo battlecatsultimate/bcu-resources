@@ -108,18 +108,18 @@
 107	Magicial beauty powered by her staff<br>Releases beams of light (Area Attack)<br>Might freeze floating enemies.	Doesn't smile that often. (Area Attack)<br>In front of cats, however.. different story.<br>Might stop floating enemies.	What can you do for her that her favorite<br>Cat doesn't already? Come back in 100<br>years, kid. Might stop Floating (Area Attack)
 108	Living happily in a plastic bubble.<br>No need for the outside world!!!<br>(Don't make them a role model, kids…)	A homemade fortress as resilient as the $0.75<br>budget allows. Tough against various attacks,<br>except moisture… a bit weak against that.	
 109	Bringing back those lost memories.<br>Acts as a shield using her great health.<br>She can also do some damage (Area Attack)	Now that she's captured her dream man, her<br>rulership over the home has become indisputable.<br>High resistance & good damage. (Area Attack)	Not content to rule the home, she now dominates<br>a vast wilderness of beasts. Authority shields her<br>well, even allows her to avoid death once (Area Atk)
-110			
-111			
-112			
-113			
-114			
-115			
-116			
-117			
-118			
-119			
-120			
-121			
+110	Joining the fight from Merc Storia! Kind-<br>hearted girl who will do anything for others.<br>Small chance to Slow Red enemies.	Joining the fight from Merc Storia!<br>Her fan club grows daily across the land.<br>Small chance to Slow Red enemies.	
+111	Joining the fight from Merc Storia!<br>A gentle and naive young lady.<br>Tough vs Black enemies.	Joining the fight from Merc Storia!<br>Don't be fooled, her tail is incredibly powerful!<br>Tough vs Black enemies.	
+112	Joining the fight from Merc Storia!<br>Left her homeland to learn about the world.<br>Small chance to Knockback Red.	Joining the fight from Merc Storia!<br>Has a kind face but a sadistic nature.<br>Small chance to Knockback Red.	
+113	Joining the fight from Merc Storia!<br>A gentle young lad who loves stargazing.<br>Small chance to Freeze Red.	Joining the fight from Merc Storia!<br>Serene but slightly absentminded youth.<br>Small chance to Freeze Red.	
+114	Joining the fight from Merc Storia!<br>A genteel youth with a reckless nature.<br>Small chance to Slow Black enemies.	Joining the fight from Merc Storia! Enjoys<br>drinking under the moon, but he's a light-weight.<br>Small chance to Slow Black enemies.	
+115	Joining the fight from Merc Storia!<br>Loyal to her master in the Sky Country.<br>Small chance to Knockback Black.	Joining the fight from Merc Storia! Known<br>among the people for devotion to justice!<br>Small chance to Knockback Black.	
+116	Joining the fight from Merc Storia! A lass from<br>the Sky Country, horned due to her mixed blood.<br>Might Freeze Black enemies.	Joining the fight from Merc Storia! Taking grand-<br>dad's teachings to heart, she travels the world.<br>Might Freeze Black enemies.	
+117	Joining the fight from Merc Storia! Normally<br>shy, but if you get her talking about guns...<br>Area attacks might Knockback Black.	Joining the fight from Merc Storia!<br>Gun maintenance is her number one hobby.<br>Area attacks might Knockback Black.	
+118	Joining the fight from Merc Storia! Her strong<br>emotions cause shocks to people nearby.<br>Area attacks might Slow Black.	Joining the fight from Merc Storia!<br>Monsters flee from her presence.<br>Area attacks might Slow Black.	
+119	Joining the fight from Merc Storia! Delivering<br>powerful blows from above that cause<br>Massive Area damage vs Black enemies.	The Cats adopted a poor lost Wyvern from<br>Merc Storia to research Cat-Dragon fusion.<br>Massive Area damage vs Black enemies.	
+120	The hero of Merc Storia joins the fight!<br>Can soothe the heart of savage beasts.<br>Small chance to Freeze enemies.	The hero of Merc Storia joins the fight!<br>A weak and monster-phobic young lad.<br>Small chance to Freeze enemies.	The hero of Merc Storia joins the fight!<br>Transformed into a Cat by his own experiments.<br>Area Attacks have 100% Freeze!
+121	Joining the fight from Merc Storia!<br>Mystic girl in a jar, bought for 10 Gold.<br>Small chance of Critical Attack.	Joining the fight from Merc Storia!<br>Cat joins her in the jar for the big fight!<br>Small chance of Critical Attack.	Joining the fight from Merc Storia!<br>The girl in a jar bought a Cat for 10 Gold.<br>Might Critical Attack.
 122	A timid office worker and midrange attacker.<br>Likes to break bad while on vacation!<br>Fast attack and strong against Red enemies.	Just like it says - a typical office worker.<br>But what happens after work…?<br>Fast attack speed, strong against Red enemies.	Takes abuse from customers and bosses all day.<br>After she clocks out, the story is very different…<br>Strong against Red enemies, might knockback.
 123	Said to also have the "MeowMeow" alias.<br>Always play nice with each other.<br>Might knockback Red enemies.	Earned the nickname "Sweater Brahs" when<br>they traded their beanpod for fine French silk.<br>Might knockback Red enemies.	
 124	The curse of the Legendary Cat Shield<br>has made him a killing machine. (Area Attack)<br>Might knockback Black and Red enemies.	Cat Shield's Hell Mode - activate!<br>Infernal (Area) attacks slice through his foes!<br>Might knockback Black and Red enemies.	Infernal hatred has fully infused the Shield.<br>Karmic blades sweep through all enemies!<br>Area atks. knockback Black and Red enemies.
@@ -183,13 +183,13 @@
 182			
 183	Celebrate "The Battle Cats POP!" on 3DS!<br>Other hobbies: Parties, Tennis, Medicine.<br>Gets lots of money from defeated enemies!	Celebrate "The Battle Cats POP!" on 3DS!<br>Has a complex thanks to his popular brother.<br>Gets lots of money from defeated enemies!	Celebrate "The Battle Cats POP!" on 3DS!<br>This Cat always seems to be in another castle.<br>Gets lots of money from defeated enemies!
 184	Mr. Ninja!!Fever joins the fight!<br>Leaps gracefully from planet to planet dicing up aliens.<br>Massive damage to Alien enemies (Area Attack)	A kunoichi from "Mr. Ninja!!Fever"!<br>As bright and beautiful as her peerless swordplay.<br>Massive damage to Alien enemies (Area Attack)	
-185			
-186			
-187			
-188			
-189			
-190			
-191			
+185	Joining the fight from Merc Storia! Silver<br>beast with a blunt and logical attitude.<br>Might Critical Attack, Tough vs Metal.	Joining the fight from Merc Storia!<br>A beguiling and handsome lady beast.<br>Might Critical Attack, Tough vs Metal.	Joining the fight from Merc Storia!<br>Partisan fencer with radical fashion sense.<br>Might Critical Attack, Tough vs Metal.
+186	Joining the fight from Merc Storia! Lady who<br>admires dragons, dreaming of a celestial bridge.<br>Area attacks might Freeze Red/Black.	Joining the fight from Merc Storia! Can't resist<br>the dragon scales that build heaven's bridge.<br>Area attacks might Freeze Red/Black.	
+187	Joining the fight from Merc Storia! A kind<br>knight troubled by uncanny strength from birth.<br>Tough vs Angel enemies.	Joining the fight from Merc Storia!<br>Merc says he's full of secrets.<br>Tough vs Angel enemies.	Joining the fight from Merc Storia! Merc says he<br>fawns over cute things when no one is looking.<br>Tough vs Angel enemies, might Dodge.
+188	Joining the fight from Merc Storia! Odd girl<br>who has made pacts with creatures of night.<br>Long-range Area attacks, Strong vs Black.	Joining the fight from Merc Storia! Touching<br>her coffin will cause it to crumble to dust.<br>Long-range Area attacks, Strong vs Black.	
+189	Joining the fight from Merc Storia! Master<br>sorcerer cursed for unknown reasons.<br>Area attacks might Knockback Angels.	Joining the fight from Merc Storia! Recovered<br>treasured items thanks to loyal disciples.<br>Area attacks might Knockback Angels.	
+190	Joining the fight from Merc Storia! Gentleman of<br>the dark, here thanks to a pact with a certain lad.<br>Might Knockback/Slow Red & Black (Area)	Joining the fight from Merc Storia! An eccentric<br>citizen of the dreamworld. (Area Attacks)<br>Might Knockback/Slow Red & Black	
+191	Joining the fight from Merc Storia!<br>Everyone's favorite PR pro is here!<br>Might Slow a single enemy	Joining the fight from Merc Storia! Not<br>only PR, she's an apple merchant too!<br>Might Slow a single enemy	Joining the fight from Merc Storia!<br>The Battle Cats needs PR help too, right?<br>Might Slow a single enemy
 192			
 193			
 194	A super-genius who dreamed of alien invasion.<br>Recreated himself as a cyborg hero to defend<br>the planet! Area attacks might freeze Aliens.	A bullied kid who hid in his room for years. No more!<br>Now channels his fear into fighting for justice!<br>Attack power increases when damaged! (Area)	Reinventing himself, he has changed his destiny!<br>But can he change society with his powers?<br>Strong vs. Aliens, immune to wave attacks.
@@ -342,9 +342,9 @@
 341			
 342	For this small-business Cat, the customer is king.<br>Always invests its profits back in the store.<br>Get more money when defeating enemies!	This Cat is thankful for you supporting it's business!<br>He'll thank you by fighting any enemy that troubles you.<br>Get more money when defeating enemies!	
 343	One rainy day, a Slug befriended a Cat.<br>Her will is strong, but her body is weak (to salt).<br>Area attack Slows enemies for a moment.	They thought it wasn't fair for the Cat to always<br>ride, so now they take turns. No effect on race<br>times. Area attack Slows enemies for a moment.	
-344			
-345			
-346			
+344	Joining the fight from Merc Storia!<br>A wingless boy from the Sky Country.<br>Area attacks might Knockback Floating.	Joining the fight from Merc Storia! A saints'<br>miracle granted him the wings he long desired.<br>Area attacks might Knockback Floating.	Joining the fight from Merc Storia! Son of the<br>Sky, who wanders with sketchbook in hand.<br>Area attacks might Knockback Floating.
+345	Joining the fight from Merc Storia!<br>Called "Holy Wings" for obvious reasons.<br>Strong vs/Might Freeze Floating	Joining the fight from Merc Storia! Only by<br>casting aside wings can you realize true<br>sainthood. Strong vs/Might Freeze Floating	Joining the fight from Merc Storia! Saint<br>who avoids dependence on God's miracles.<br>Strong vs/100% Freeze vs Floating
+346	Joining the fight from Merc Storia! Japanese<br>maiden searching this world for her brother.<br>Area attacks might Slow Aliens/Zombies	Joining the fight from Merc Storia! Treasures<br>the kimono gifted by her dear brother.<br>Area attacks might Slow Aliens/Zombies	
 347			
 348			
 349			
@@ -434,7 +434,7 @@
 433	Inspired by a weirdly cute white<br>bear, has mastered those slick moves.<br>Might knockback Black enemies.	Embracing its savage instincts, it<br>rains rapid-fire blows on its enemy.<br>Might knockback Black enemies.	
 434			
 435	Valkyrie's younger sister. Top agent of Valhalla,<br>entrusted with high-risk missions to defend the<br>mortal realms. Area atk might break Barriers.	Valkyrie's youngest sister. Nature itself has<br>blessed her with command over all forces of<br>the Earth. Area attacks might break Barriers.	
-436	Not sure if this is a Cat...<br>There's just something about<br>that cool 'stache...	I can't stand it anymore...<br>Seems like this one is immune to<br>Wave attacks. (Long Range Area Attack)	
+436	Not sure if this is a Cat...<br>There's just something about<br>that cool 'stache...	I can't stand it anymore...<br>Seems like this one is immune to<br>Wave attacks. (Long Range Area Attack)	Monster? Magician? ...Or just a Cat?<br>No one can explain how its powers work.<br>Immune to Wave attacks (Long-Range Area)
 437	At long last, Cat God has joined the fight!<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.	Shining with glorious purpose and divine charisma.<br>His holy sneeze knocks back all but Metal<br>enemies, and his Omni-strikes are pretty cool too.	
 438	A fiery lass who runs a tiki bar by the sea.<br>Boys at the beach don't seem to mind her abuse<br>too much? Strong vs. Zombies/Floating (Area Atk)	A rowdy beach babe who keeps the seaside bullies<br>in check by patrolling on her custom speedboard.<br>Strong vs. Zombies/Floating (Area Atk)	
 439	An almighty titaness who rescued the universe from<br>chaos, keeping order with her Timepiece of Destiny.<br>Freezes any traited enemy with long-range area atks.	Molded our reality from primordial matter using her<br>mastery of the Divine Timepiece. Don't mess with her.<br>Freezes any traited enemy with long-range area atks.	
@@ -504,7 +504,7 @@
 503			
 504			
 505	Gargantuan horned beast, spitting vicious<br>thunderbolts that shake the very firmament.<br>Chance to Knockback/Slow Traitless enemies.	None may stand against the horned king bearing<br>the soul of storms and impenetrable ebony armor.<br>Chance to Knockback/Slow Traitless enemies.	
-506			
+506	Joining the fight from Merc Storia!<br>Renounced his pirate past to become a marine.<br>100% Survives, Chance of Savage Blow. (Area)	Joining the fight from Merc Storia!<br>Wields power for the cause of one special person.<br>100% Survives, Chance of Savage Blow. (Area)	
 507	Heroic caped Cat who soars through the air (while<br>worrying about being fired from his part-time job.)<br>Weaken Traitless, nullfies Wave Attacks	Grew Macho thanks to his nervous eating habit.<br>Practices singing in the park when no one's around.<br>Weaken Traitless, nullfies Wave Attacks	Grew Macho thanks to his nervous eating habit.<br>Practices singing in the park when no one's around.<br>Weaken Traitless, nullfies Wave Attacks
 508	A Cat endlessly training to fight the strongest<br>warriors. Sadly, none seem to be around now.<br>Might Freeze Black enemies.	I hoped to meet one warrior stronger than me.<br>Sadly, everyone seems to fit that description.<br>Might Freeze Black enemies.	I hoped to meet one warrior stronger than me.<br>Sadly, everyone seems to fit that description.<br>Might Freeze Black enemies.
 509	A Cat who seems to have stuck buns in her<br>hair. Trying to learn the Spinning Bird Kick.<br>Small chance of Critical.	Beautiful Cat working for the ICPO.<br>Mesmerizing kicks stun her opponents.<br>Small chance of Critical.	
@@ -531,3 +531,4 @@
 530			
 531	Lead in the hit drama "Trial of Teacher Bear".<br>Smashes anyone who steals his spotlight.<br>Delivers insane area damage to Traitless.	Production assistant on the set of "Teacher Bear".<br>Obliterates anyone who stands in front of him.<br>Delivers insane area damage to Black.	
 532	The weak shall serve the strong! Or so they say.<br>The founding ancestor of a proud warrior clan.<br>Area attacks might weaken non-Metal enemies.	The first of their line to terrorize enemies by<br>riding a ferocious Cat-beast into the enemy lines.<br>Area attacks might weaken non-Metal enemies.	
+533	A sniper prodigy, small but effective. Can change<br>the entire course of battle with a single bullet.<br>Long-range attacks only hit Aliens & Red.	The watchful guardian over the night city. Genius<br>with a rifle, who still has to help Mom with the dishes.<br>Long-range attacks only hit Aliens & Zombies.	

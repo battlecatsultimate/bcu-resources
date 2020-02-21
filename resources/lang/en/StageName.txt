@@ -1078,6 +1078,8 @@
 001-227-000	Vanguard (Insane)
 001-227-001	Elite (Deadly)
 001-227-002	Commander (Deadly)
+001-228		50M Celebration Gifts Galore!
+001-228-000	Joy of 50 Million!
 002			Collab
 002-000		
 002-000-000	
@@ -1128,17 +1130,17 @@
 002-005-007	
 002-006		
 002-006-000	
-002-007		
-002-007-000	
-002-008		
-002-008-000	
-002-008-001	
-002-008-002	
-002-008-003	
-002-008-004	
-002-008-005	
-002-008-006	
-002-008-007	
+002-007		Merc Storia: Inferno
+002-007-000	A City Aflame (Insane)
+002-008		Merc Storia: Showdown
+002-008-000	Cats After All
+002-008-001	Healer's Journey
+002-008-002	Teraphobic
+002-008-003	A Strange Bottled Girl
+002-008-004	Subjugated Cats
+002-008-005	Lost Memories
+002-008-006	Threads of Love
+002-008-007	300 Yard Strike
 002-009		
 002-009-000	20-on-20
 002-009-001	Cat Battle
@@ -2435,6 +2437,13 @@
 013-020-003	Stars in the Sewers
 013-020-004	Postapocalypse Panic
 013-020-005	Lifesaving Shovel
+013-021		Drunken Foundry
+013-021-000	Proletarian Box
+013-021-001	Collapse Checker
+013-021-002	Unmoving Conveyer
+013-021-003	VIP Warehouse
+013-021-004	Rebel Scraps
+013-021-005	Smokestack to Heaven
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -2475,4 +2484,67 @@
 014-011-003	Sweet XP (Veteran)
 014-011-004	Sweet XP (Expert)
 014-011-005	Sweet XP (Insane)
-	
+024			RA
+024-000		Baron Seal Strikes!
+024-000-000	Red Alert 1
+024-000-001	Red Alert 2
+024-000-002	Red Alert 3
+024-000-003	Red Alert 4
+024-000-004	Red Alert 5
+024-000-005	Red Alert 6
+024-000-006	Red Alert 7
+024-000-007	Red Alert 8
+024-000-008	Red Alert 9
+024-000-009	Red Alert 10
+024-000-010	Red Alert 11
+024-000-011	Red Alert 12
+024-000-012	Red Alert 13
+024-000-013	Red Alert 14
+024-000-014	Red Alert 15
+024-000-015	Red Alert 16
+024-000-016	Red Alert 17
+024-000-017	Red Alert 18
+024-000-018	Red Alert 19
+024-000-019	Red Alert 20
+024-001		Baron Seal Strikes!!
+024-001-000	Red Alert 21
+024-001-001	Red Alert 22
+024-001-002	Red Alert 23
+024-001-003	Red Alert 24
+024-001-004	Red Alert 25
+024-001-005	Red Alert 26
+024-001-006	Red Alert 27
+024-001-007	Red Alert 28
+024-001-008	Red Alert 29
+024-001-009	Red Alert 30
+024-001-010	Red Alert 31
+024-001-011	Red Alert 32
+024-001-012	Red Alert 33
+024-001-013	Red Alert 34
+024-001-014	Red Alert 35
+024-001-015	Red Alert 36
+024-001-016	Red Alert 37
+024-001-017	Red Alert 38
+024-001-018	Red Alert 39
+024-001-019	Red Alert 40
+024-002		Baron Seal Strikes!!!
+024-002-000	Red Alert 41
+024-002-001	Red Alert 42
+024-002-002	Red Alert 43
+024-002-003	Red Alert 44
+024-002-004	Red Alert 45
+024-002-005	Red Alert 46
+024-002-006	Red Alert 47
+024-002-007	Red Alert 48
+024-002-008	Red Alert 49
+024-002-009	Red Alert 50
+024-002-010	Red Alert 51
+024-002-011	Red Alert 52
+024-002-012	Red Alert 53
+024-002-013	Red Alert 54
+024-002-014	Red Alert 55
+024-002-015	Red Alert 56
+024-002-016	Red Alert 57
+024-002-017	Red Alert 58
+024-002-018	Red Alert 59
+024-002-019	Red Alert 60
