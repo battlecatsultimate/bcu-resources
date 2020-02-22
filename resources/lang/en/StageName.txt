@@ -1177,9 +1177,9 @@
 002-017-000	
 002-017-001	
 002-017-002	
-002-018		
-002-018-000	
-002-018-001	
+002-018		Healer Awakens!
+002-018-000	Healer Awakens (Expert)
+002-018-001	Healer Awakens (Insane)
 002-019		
 002-019-000	
 002-019-001	
@@ -1288,12 +1288,12 @@
 002-045-000	
 002-045-001	
 002-045-002	
-002-046		
-002-046-000	
-002-046-001	
-002-047		
-002-047-000	
-002-047-001	
+002-046		Merc Awakens!
+002-046-000	Merc Awakens (Veteran)
+002-046-001	Merc Awakens (Insane)
+002-047		Titi Awakens!
+002-047-000	Titi Awakens (Veteran)
+002-047-001	Titi Awakens (Insane)
 002-048		
 002-048-000	
 002-048-001	
@@ -1442,14 +1442,14 @@
 002-083-001	
 002-084		
 002-084-000	
-002-085		
-002-085-000	
-002-085-001	
-002-085-002	
-002-086		
-002-086-000	
-002-086-001	
-002-086-002	
+002-085		Merc Storia: Attack
+002-085-000	Alois: Cowards Flight
+002-085-001	Cornelia: Heaven's Grace
+002-085-002	Hearscht: Silver Beast
+002-086		Merc Storia: Mystery
+002-086-000	Feathered
+002-086-001	On Holy Wings
+002-086-002	Blade Ritual
 002-087		Holy War: Saber Alter
 002-087-000	Consumed by Shadow (Veteran)
 002-087-001	Consumed by Shadow (Deadly)
@@ -1517,6 +1517,7 @@
 002-105-002	Chompin' Trees
 002-105-003	Munchin' Rocks
 002-105-004	The Future Is Chins
+002-106		Shakurel Planet
 002-107		Street Fighter (Easy)
 002-107-000	Warrior of Nature
 002-107-001	Illuminating Flame
@@ -1536,14 +1537,14 @@
 002-108-006	Invincible Fist
 002-108-007	Impregnable Fortress
 002-109		Street Fighter (Hard)
-002-108-000	Iron Cyclone
-002-108-001	Impregnable Fortress
-002-108-002	Rush & Blaze
-002-108-003	BONUS STAGE
-002-108-004	Illuminating Flame
-002-108-005	Blue Jade
-002-108-006	Invincible Fist
-002-108-007	Warrior of Nature
+002-109-000	Iron Cyclone
+002-109-001	Impregnable Fortress
+002-109-002	Rush & Blaze
+002-109-003	BONUS STAGE
+002-109-004	Illuminating Flame
+002-109-005	Blue Jade
+002-109-006	Invincible Fist
+002-109-007	Warrior of Nature
 002-110		New Challenger
 002-110-000	VS RYU (Easy)
 002-111		New Challenger
@@ -1575,13 +1576,11 @@
 002-124		New Challenger
 002-124-000	Master of the Fist (Veteran)
 002-124-001	Sekia Goshoha (Deadly)
-
 004			Extra
 004-000
 004-001
 004-002
 004-003
-
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
 003-000-001	Mongolia
