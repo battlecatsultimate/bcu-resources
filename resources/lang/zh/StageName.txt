@@ -2488,45 +2488,4 @@
 014-011-003	經驗如蜜 超高級
 014-011-004	經驗如蜜 困難
 014-011-005	經驗如蜜 超級難
-
-014			B
-014-000		Growing Yellow
-014-000-000	Rays of Gold (Hard)
-014-000-001	Rays of Gold (Veteran)
-014-000-002	Rays of Gold (Insane)
-014-001		Growing Blue
-014-001-000	Blue Illusion (Hard)
-014-001-001	Blue Illusion (Expert)
-014-001-002	Blue Illusion (Insane)
-014-002		Growing Red
-014-002-000	Red Passions (Hard)
-014-002-001	Red Passions (Expert)
-014-002-002	Red Passions (Insane)
-014-003		Growing Purple
-014-003-000	Violet Flash (Hard)
-014-003-001	Violet Flash (Expert)
-014-003-002	Violet Flash (Insane)
-014-004		Growing Green
-014-004-000	Green Envy (Hard)
-014-004-001	Green Envy (Expert)
-014-004-002	Green Envy (Insane)
-014-005		Facing Danger
-014-005-000	Steel Visage (Deadly)
-014-006		Seige of Hippoe!
-014-006-000	Super Metal Hippoe (Expert)
-014-007		Cat Ticket Chance!
-014-007-000	Love, Metal Hippoe (Hard)
-014-008		Merciless XP!
-014-008-000	Taste of Success (Merciless)
-014-009		XP Colosseum
-014-009-000	Tempered in Flame (Deadly)
-014-010		XP Megablitz!
-014-010-000	Refined Palate (Insane)
-014-011		XP Stage
-014-011-000	Sweet XP (Easy)
-014-011-001	Sweet XP (Medium)
-014-011-002	Sweet XP (Hard)
-014-011-003	Sweet XP (Veteran)
-014-011-004	Sweet XP (Expert)
-014-011-005	Sweet XP (Insane)
 	
