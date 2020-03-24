@@ -355,7 +355,7 @@
 354	Seashore Kai	Seashore Kai, type μ	
 355	Mighty Rekon Korps	Orbital Platform Armageddon	Orbital Annihilator Ragnarok
 356			
-357	Wolfchild Deale	Wolf Princess Deale	
+357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale
 358	Graveflower Verbena	Verbena the Bride	
 359	Bora	Bazibon	Bazibastra
 360	Mizli	Marinmizu	Mizuririn
@@ -532,3 +532,9 @@
 531	Teacher BearCat	Assassin BearCat	
 532	Urs & Fenrir	Urs & Minka	
 533	Sharpshooter Saki	Nighthunter Saki	
+534	Hades the Punisher	Hades the Deathdealer	
+535	Hatsune Miku	Hatsune Miku CC	
+536	Sakura Miku	Sakura Miku CC	
+537	Kagamine Rin & Len	Kagamine Rin & Len CC	
+538	Miku Cat	Miku Cat CC	
+539	Rugby Cat	Quarterback Cat	

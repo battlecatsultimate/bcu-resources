@@ -117,7 +117,7 @@
 116	Blew his life savings on Angel goods.<br>Discovered Angels aren't actually<br>Floating enemies after obsessively<br>collecting Rare Cat Capsules.
 117	A Doge who stole Wall Cat's<br>schtick and turned herself into a wall.<br>Didn't predict that other Doges would<br>use her to replace missing dominoes.
 118	His lovely red locks inspired a<br>master's thesis on reptilian hair care.<br>The hair dye is still watercolor, and this<br>information still means nothing.
-119	A sunfish named Jones. Yeah, so what?<br>Shaped like an stealth bomber, and<br>therefore undetectable by radar systems.<br>Actually, that's how he got into heaven.
+119	A sunfish named Jones. Yeah, so what?<br>Shaped like a stealth bomber, and<br>therefore undetectable by radar systems.<br>Actually, that's how he got into heaven.
 120	
 121	
 122	
@@ -467,7 +467,7 @@
 466	
 467	
 468	A mad scientist set his tail on fire<br>to test the limits of fowl power.<br>Panic has given him to the<br>strength he needs to fly to heaven.
-469	The guys are never alone in life or in death.<br>Luckily there was a shuttle bus service<br>from the cemetary to the battlefield.<br>Undeath doesn't cure codependency...
+469	The guys are never alone in life or in death.<br>Luckily there was a shuttle bus service<br>from the cemetery to the battlefield.<br>Undeath doesn't cure codependency...
 470	
 471	
 472	
@@ -500,3 +500,9 @@
 499	
 500	
 501	
+502	
+503	
+504	
+505	
+506	Universe's #1 playboy, beloved by<br>lonely-heart madames from across the <br>galaxy. Just a few sweet words from him<br>and anyone will soon be seeing stars.
+507	
