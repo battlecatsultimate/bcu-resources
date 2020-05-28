@@ -178,7 +178,7 @@
 177	True form increases all stats and<br>gains Barrier Breaker, plus Slow <br>and Knockback versus Angels!
 178	<br><br>
 179	<br><br>
-180	<br><br>
+180	True Form evolution increases Attack<br>Range and Attack Speed! Plus, gains<br>the Immune to Weaken ability!
 181	<br><br>
 182	<br><br>
 183	<br><br>
@@ -268,7 +268,7 @@
 267	<br><br>
 268	True Form evolution gains improved attack<br>power and defense. Plus, becomes immune <br>to Curses and weakens Relic enemies
 269	<br><br>
-270	<br><br>
+270	True Form evolution gains increased<br>Defense, Move Speed, and Attack Power!<br>Plus, gains the Immune to Slow ability!
 271	<br><br>
 272	<br><br>
 273	<br><br>
@@ -339,7 +339,7 @@
 338	True Form evolution gains improved defense<br>and attack range. Plus, weakens Black<br>enemies for longer lengths of time.
 339	<br><br>
 340	<br><br>
-341	<br><br>
+341	True Form evolution increases Defense and<br>Attack Power! Gains immunity to Knockback<br>and the Barrier Breaker ability!
 342	<br><br>
 343	<br><br>
 344	True Form evolution gets<br>improvements to all stats.<br>
@@ -494,7 +494,7 @@
 493	<br><br>
 494	<br><br>
 495	<br><br>
-496	<br><br>
+496	True Form evolution greatly increases <br>Defense! Plus, chance of Savage Blows<br> will also increase!
 497	<br><br>
 498	<br><br>
 499	<br><br>
@@ -538,3 +538,9 @@
 537	<br><br>
 538	<br><br>
 539	<br><br>
+540	<br><br>
+541	<br><br>
+542	<br><br>
+543	<br><br>
+544	<br><br>
+545	<br><br>

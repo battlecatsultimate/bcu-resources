@@ -88,6 +88,8 @@
 128	G Ticket
 129	G Ticket
 130	G Ticket
+131	G Ticket
+132	Lucky Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -122,6 +124,7 @@
 1116	Hoop Cat
 1018	Marshmallow Cat
 1118	Li'l Nyandam
+1119	Takuya ＆ Yuki
 1019	Cat Kart R
 1120	Drumcorps Cat
 1020	Baozi Cat
@@ -145,6 +148,7 @@
 1031	Curling Cat
 1139	Miyamoku Musashi
 1032	Eggy Cat
+1140	Redhead Yuki Cat
 1142	Li'l Shirou
 1036	Volley Cat
 1037	Glass Cat
@@ -167,6 +171,7 @@
 1041	Primordial Cat
 1160	Meowla Meowla
 1042	Dogumaru
+1164	Kano ＆ Souma
 1043	Cat Bros
 1044	Mightycat
 1167	Ryu Cat
@@ -178,6 +183,7 @@
 1049	Urs & Fenrir
 1170	Miku Cat
 1050	Rugby Cat
+1051	Phantom Cat
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -299,6 +305,8 @@
 15172	Piccolan Pasalan
 16173	Schoolbus Nyandam
 15178	God-Emperor Dioramos
+10180	Takuya＆ Lovely Yuki
+15181	Mystery Catgirl Yuki
 10184	Cat Kart P
 15186	Revolutionary Hearscht CC
 15188	Holiday Juvens CC
@@ -325,6 +333,7 @@
 15262	Akuma Hayabusa
 10268	Catyphoon
 16269	Awakened Mina
+15271	Crazed Catgirl Yuki
 10274	Soba Cat
 10285	Bullet Train Cat
 10288	Golfer Cat
@@ -346,6 +355,7 @@
 15336	Mer-Queen Ruri
 15337	Eternal Reika
 15339	Immortal Yoshimoto
+15342	Lost World Catgirl Yuki
 15345	Artist Orthos CC
 15346	Naptime Michelia CC
 15352	Divine Twinstars
@@ -380,3 +390,4 @@
 15432	Section Chief Gravicci
 15437	Mystican Pasalan
 10443	Tourist Cat
+15497	Immortal Kaihime

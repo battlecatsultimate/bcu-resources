@@ -1082,6 +1082,10 @@
 001-228-000	Joy of 50 Million!
 001-229		Wanwan's Glory
 001-229-000	Dogsville (Insane)
+001-230		B-Day Gifts
+001-230-000	Golden Week Special!!
+001-231		Z-Onel Rises!
+001-231-000	Last of the Dead (Merciless)
 002			Collab
 002-000		
 002-000-000	
@@ -1228,9 +1232,9 @@
 002-027-000	
 002-027-001	
 002-027-002	
-002-028		
-002-028-000	
-002-028-001	
+002-028		Takuya & Yuki Awaken
+002-028-000	Takuya ＆ Yuki Awaken! (Veteran)
+002-028-001	Takuya ＆ Yuki Awaken! (Insane)
 002-029		A Fungal Challenge
 002-029-000	Fungal Dominance
 002-029-001	King of the Table
@@ -1286,10 +1290,10 @@
 002-044		
 002-044-000	
 002-044-001	
-002-045		
-002-045-000	
-002-045-001	
-002-045-002	
+002-045		The Lost World
+002-045-000	Another Mystery Girl
+002-045-001	Don't Act Like You Know Me
+002-045-002	All Worlds Will End
 002-046		Merc Awakens!
 002-046-000	Merc Awakens (Veteran)
 002-046-001	Merc Awakens (Insane)
@@ -1401,10 +1405,10 @@
 002-074-002	
 002-074-003	
 002-074-004	
-002-075		
-002-075-000	
-002-075-001	
-002-075-002	
+002-075		City of Souls
+002-075-000	Blackened Soul
+002-075-001	The Two Yukis
+002-075-002	Three Destinies
 002-076		
 002-076-000	
 002-076-001	
@@ -1498,28 +1502,52 @@
 002-097-002	
 002-097-003	
 002-097-004	
-002-098		
-002-098-000	
-002-098-001	
-002-098-002	
-002-098-003	
-002-098-004	
-002-098-005	
-002-098-006	
-002-099		
-002-099-000	
-002-099-001	
-002-099-002	
+002-098		Annihilated City
+002-098-000	A Post-Apocalypse Tale
+002-098-001	Deliveryman Takuya
+002-098-002	A Mystery Girl
+002-098-003	Good Cats, Bad Cats
+002-098-004	A Bothersome Cat
+002-098-005	The Nyanko Plan
+002-098-006	LOST (Insane)
+002-099		The World Beyond
+002-099-000	An Encounter With Sin
+002-099-001	Foolish Wanderer Kano
+002-099-002	Wishing for Happiness
+002-100		
+002-100-000	
+002-100-001	
+002-100-002	
+002-101		
+002-101-000	
+002-101-001	
 002-102		Unit-13 Strikes!
 002-102-000	It's Not Your Fault (Veteran)
 002-102-001	We'll Meet Again (Merciless)
+002-103		
+002-103-000	
+002-103-001	
+002-103-002	
+002-103-003	
+002-103-004	
+002-104		
+002-104-000	
+002-104-001	
+002-104-002	
+002-104-003	
+002-104-004	
 002-105		Shakurel Planet
 002-105-000	The Jaws of Nature
 002-105-001	Gnawin' Bones
 002-105-002	Chompin' Trees
 002-105-003	Munchin' Rocks
 002-105-004	The Future Is Chins
-002-106		Shakurel Planet
+002-106		
+002-106-000	
+002-106-001	
+002-106-002	
+002-106-003	
+002-106-004	
 002-107		Street Fighter (Easy)
 002-107-000	Warrior of Nature
 002-107-001	Illuminating Flame
@@ -1578,6 +1606,10 @@
 002-124		New Challenger
 002-124-000	Master of the Fist (Veteran)
 002-124-001	Sekia Goshoha (Deadly)
+002-125		
+002-125-000	
+002-125-001	
+002-125-002	
 002-126		Hatsune Miku
 002-126-000	Electric Diva
 002-126-001	Sing with a Smile
@@ -1592,8 +1624,35 @@
 002-128-000	Spring Popstar
 002-128-001	Scent of Blossoms
 002-128-002	Sakura Dance
-002-129		MIKU CHERRY
-002-130		MIKU CHERRY
+002-129		
+002-129-000	
+002-129-001	
+002-129-002	
+002-129-003	
+002-129-004	
+002-129-005	
+002-129-006	
+002-129-007	
+002-129-008	
+002-129-009	
+002-129-010	
+002-129-011	
+002-130		MIKU EXPO
+002-130-000	in INDONESIA
+002-130-001	in TAIWAN
+002-130-002	in JAPAN
+002-130-003	in USA
+002-130-004	in EUROPE
+002-131		MIKU CHERRY
+002-131-000	Spring Popstar
+002-131-001	Scent of Blossoms
+002-131-002	Sakura Dance
+002-132		
+002-132-000	
+002-133		
+002-133-000	
+002-133-001	
+002-133-002	
 004			Extra
 004-000
 004-001
@@ -2468,6 +2527,13 @@
 013-022-003	Patience Prevails
 013-022-004	A Boat Too Far
 013-022-005	Cursing the Curser
+013-023		Realm of Whyworry
+013-023-000	Authority and Gravity
+013-023-001	Slave to Energy
+013-023-002	Raise Your Torches
+013-023-003	Despotism at Home
+013-023-004	Unauthorized Breathing
+013-023-005	Bare Fangs at the Throne
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -2572,6 +2638,69 @@
 024-002-017	Red Alert 58
 024-002-018	Red Alert 59
 024-002-019	Red Alert 60
+024-003		Le'Grim Strikes!
+024-003-000	Rampage Lv1
+024-003-001	Rampage Lv2
+024-003-002	Rampage Lv3
+024-003-003	Rampage Lv4
+024-003-004	Rampage Lv5
+024-003-005	Rampage Lv6
+024-003-006	Rampage Lv7
+024-003-007	Rampage Lv8
+024-003-008	Rampage Lv9
+024-003-009	Rampage Lv10
+024-003-010	Rampage Lv11
+024-003-011	Rampage Lv12
+024-003-012	Rampage Lv13
+024-003-013	Rampage Lv14
+024-003-014	Rampage Lv15
+024-003-015	Rampage Lv16
+024-003-016	Rampage Lv17
+024-003-017	Rampage Lv18
+024-003-018	Rampage Lv19
+024-003-019	Rampage Lv20
+024-004		Le'Grim Strikes!!
+024-004-000	Rampage Lv21
+024-004-001	Rampage Lv22
+024-004-002	Rampage Lv23
+024-004-003	Rampage Lv24
+024-004-004	Rampage Lv25
+024-004-005	Rampage Lv26
+024-004-006	Rampage Lv27
+024-004-007	Rampage Lv28
+024-004-008	Rampage Lv29
+024-004-009	Rampage Lv30
+024-004-010	Rampage Lv31
+024-004-011	Rampage Lv32
+024-004-012	Rampage Lv33
+024-004-013	Rampage Lv34
+024-004-014	Rampage Lv35
+024-004-015	Rampage Lv36
+024-004-016	Rampage Lv37
+024-004-017	Rampage Lv38
+024-004-018	Rampage Lv39
+024-004-019	Rampage Lv40
+024-005		Le'Grim Strikes!!!
+024-005-000	Rampage Lv41
+024-005-001	Rampage Lv42
+024-005-002	Rampage Lv43
+024-005-003	Rampage Lv44
+024-005-004	Rampage Lv45
+024-005-005	Rampage Lv46
+024-005-006	Rampage Lv47
+024-005-007	Rampage Lv48
+024-005-008	Rampage Lv49
+024-005-009	Rampage Lv50
+024-005-010	Rampage Lv51
+024-005-011	Rampage Lv52
+024-005-012	Rampage Lv53
+024-005-013	Rampage Lv54
+024-005-014	Rampage Lv55
+024-005-015	Rampage Lv56
+024-005-016	Rampage Lv57
+024-005-017	Rampage Lv58
+024-005-018	Rampage Lv59
+024-005-019	Rampage Lv60
 025			H
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)
@@ -2591,3 +2720,25 @@
 025-007-000	Lake of Lava (Insane)
 025-008		Ticket Hunter G
 025-008-000	Monster's Nest (Deadly)
+027			CA
+027-000		Messier's Assault
+027-000-000	Land of Dreams Lv1
+027-000-001	Land of Dreams Lv2
+027-000-002	Land of Dreams Lv3
+027-000-003	Land of Dreams Lv4
+027-000-004	Land of Dreams Lv5
+027-000-005	Land of Dreams Lv6
+027-000-006	Land of Dreams Lv7
+027-000-007	Land of Dreams Lv8
+027-000-008	Land of Dreams Lv9
+027-000-009	Land of Dreams Lv10
+027-000-010	Land of Dreams Lv11
+027-000-011	Land of Dreams Lv12
+027-000-012	Land of Dreams Lv13
+027-000-013	Land of Dreams Lv14
+027-000-014	Land of Dreams Lv15
+027-000-015	Land of Dreams Lv16
+027-000-016	Land of Dreams Lv17
+027-000-017	Land of Dreams Lv18
+027-000-018	Land of Dreams Lv19
+027-000-019	Land of Dreams Lv20

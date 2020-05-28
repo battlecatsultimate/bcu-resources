@@ -73,4 +73,6 @@
 72	Clear "Bottom of the Swamp"
 73	Unlock Urs & Fenrir
 74	Clear "Clan of the Maniacs"
-75	Clear "Wanwan's Glory"
+75	Clear "Wanwan's Glory"
+76	Clear all Into the Future Ch. 3 Zombie Outbreak Stages
+77	Clear "Z-Onel Rises!"

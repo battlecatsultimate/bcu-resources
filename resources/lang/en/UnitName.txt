@@ -177,9 +177,9 @@
 176	Marshmallow Cat	Creepmallow	
 177	Dioramos	Archdragon Dioramos	God-Emperor Dioramos
 178			
-179			
-180			
-181			
+179	Takuya ＆ Yuki	Takuya, Yuki ＆ Cat	Takuya＆ Lovely Yuki
+180	Mystery Girl Yuki	Mystery Yuki ＆ Cat	Mystery Catgirl Yuki
+181	Yuki Cat	Lovely Yuki Cat	
 182			
 183	Cat Kart R	Cat Kart G	Cat Kart P
 184	Mr. Ninja	Mint	
@@ -268,7 +268,7 @@
 267	Catornado	Hurricat	Catyphoon
 268	Red Riding Mina	Crimson Mina	Awakened Mina
 269	Baby Gao	Mighty Lord Gao	
-270	Crazed Yuki	Crazed Yuki Cat	
+270	Crazed Yuki	Crazed Yuki ＆ Cat	Crazed Catgirl Yuki
 271	Shining Amaterasu	Glorious Amaterasu	
 272	Splendid Ganesha	Exalted Ganesha	
 273	Cheerleader Cat	Waitress Cat	Soba Cat
@@ -338,8 +338,8 @@
 337			
 338	Imagawa Yoshimoto	Wargod Yoshimoto	Immortal Yoshimoto
 339			
-340			
-341			
+340	Redhead Yuki Cat	Redhead Lovely Yuki Cat	
+341	Lost World Yuki	Lost World Yuki ＆ Cat	Lost World Catgirl Yuki
 342	Maneki Cat	Neo Maneki Cat	
 343	Slug Jockey Cat	Slugcat	
 344	Orthos	Orthos CC	Artist Orthos CC
@@ -426,8 +426,8 @@
 425			
 426	Mecha-Bun	Mecha-Bun Mk II	Ultimate Mecha-Bun
 427	Cat Clan Heroes	Cat Guild Heroes	Cat Quest Heroes
-428			
-429			
+428	Souma Cat	Stylish Souma Cat	
+429	Otaku Geek Cat	Hacker Geek Cat	
 430			
 431	Detective Vigler	Inspector Gabriel	Section Chief Gravicci
 432	Betakkuma	Black Betakkuma	
@@ -480,8 +480,8 @@
 479			
 480			
 481	Doktor Heaven	Professor Abyss	
-482			
-483			
+482	Benevolent Souma	Souma ＆ Cat	
+483	Kano ＆ Souma	Kano ＆ Souma ＆ Cat	
 484	Li'l Valkyrie Dark	Dark Rider Valkyrie	
 485			
 486			
@@ -494,7 +494,7 @@
 493	Gaia the Creator	Gaia the Supreme	
 494	Seabreeze Coppermine	Seabreeze Coppermine, type κ	
 495	Matador Cat	Flamenco Cat	
-496	Narita Kaihime	Wargod Kaihime	
+496	Narita Kaihime	Wargod Kaihime	Immortal Kaihime
 497	Shakurel Cat	Shakurel Macho Cat	
 498	Shakurel Lion	Shakurel Lion CC	
 499	Shakurel Tiger	Shakurel Tiger CC	
@@ -538,3 +538,9 @@
 537	Kagamine Rin & Len	Kagamine Rin & Len CC	
 538	Miku Cat	Miku Cat CC	
 539	Rugby Cat	Quarterback Cat	
+540			
+541			
+542			
+543	Kasli the Bane	Kasli, Daughter of Chaos	
+544	Kyosaka Nanaho	True Kyosaka Nanaho	
+545	Phantom Cat	Miasma Cat	
