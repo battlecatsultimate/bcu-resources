@@ -75,4 +75,6 @@
 74	Clear "Clan of the Maniacs"
 75	Clear "Wanwan's Glory"
 76	Clear all Into the Future Ch. 3 Zombie Outbreak Stages
-77	Clear "Z-Onel Rises!"
+77	Clear "Z-Onel Rises!"
+78	Clear "First Errand"
+79	Clear the 50th floor of Heavenly Tower

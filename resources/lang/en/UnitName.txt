@@ -356,7 +356,7 @@
 355	Mighty Rekon Korps	Orbital Platform Armageddon	Orbital Annihilator Ragnarok
 356			
 357	Wolfchild Deale	Wolf Princess Deale	Jester Queen Deale
-358	Graveflower Verbena	Verbena the Bride	
+358	Graveflower Verbena	Verbena the Bride	Opulent Verbena
 359	Bora	Bazibon	Bazibastra
 360	Mizli	Marinmizu	Mizuririn
 361	Aer	Erphuan	Aervanta
@@ -544,3 +544,12 @@
 543	Kasli the Bane	Kasli, Daughter of Chaos	
 544	Kyosaka Nanaho	True Kyosaka Nanaho	
 545	Phantom Cat	Miasma Cat	
+546	Papaluga	Papalan Pasalan	
+547			
+548			
+549			
+550			
+551			
+552			
+553	Bakery Cat	Boomerang Cat	
+554	Master Uril	Mystic Uril	

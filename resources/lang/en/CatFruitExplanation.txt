@@ -356,7 +356,7 @@
 355	True Form evolution gains improved<br>attack power and Omnistrike!<br>
 356	<br><br>
 357	True form gains improved attack speed!<br><br>
-358	<br><br>
+358	True form evolution gains improved Defense!<br>Critical chance is also increased!<br>
 359	True Form evolution increases<br>attack power and defense!<br>
 360	True Form evolution improves<br>attack power and defense!<br>
 361	True Form evolution improves<br>attack power and defense!<br>
@@ -544,3 +544,12 @@
 543	<br><br>
 544	<br><br>
 545	<br><br>
+546	<br><br>
+547	<br><br>
+548	<br><br>
+549	<br><br>
+550	<br><br>
+551	<br><br>
+552	<br><br>
+553	<br><br>
+554	<br><br>

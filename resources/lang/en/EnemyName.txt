@@ -511,3 +511,7 @@
 510	
 511	Death Angel Z-Onel
 512	Li'l Zyclone
+513	St. Dober
+514	Doremi
+515	
+516	Master Uril

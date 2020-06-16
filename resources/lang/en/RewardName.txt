@@ -90,6 +90,8 @@
 130	G Ticket
 131	G Ticket
 132	Lucky Ticket
+133	G Ticket
+134	Lucky Ticket
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -184,6 +186,7 @@
 1170	Miku Cat
 1050	Rugby Cat
 1051	Phantom Cat
+1052	Bakery Cat
 19001	Mohawk Cat
 19002	Eraser Cat
 19003	Dark Cat
@@ -361,6 +364,7 @@
 15352	Divine Twinstars
 15356	Orbital Annihilator Ragnarok
 15358	Jester Queen Deale
+15359	Opulent Verbena
 15360	Bazibastra
 15361	Mizuririn
 15362	Aervanta

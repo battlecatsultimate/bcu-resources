@@ -1086,6 +1086,8 @@
 001-230-000	Golden Week Special!!
 001-231		Z-Onel Rises!
 001-231-000	Last of the Dead (Merciless)
+001-232		First Errand
+001-232-000	Baby Fake (Merciless)
 002			Collab
 002-000		
 002-000-000	
@@ -2544,6 +2546,13 @@
 013-023-003	Despotism at Home
 013-023-004	Unauthorized Breathing
 013-023-005	Bare Fangs at the Throne
+013-024		Pumping Titanium
+013-024-000	Treadmill Powered
+013-024-001	Vengeful Sandbag
+013-024-002	Protein Cartel
+013-024-003	Anaerobic Cycling
+013-024-004	Sauna Handstands
+013-024-005	Lakeside Bootcamp
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -2711,6 +2720,69 @@
 024-005-017	Rampage Lv58
 024-005-018	Rampage Lv59
 024-005-019	Rampage Lv60
+024-006		Mega Menace!
+024-006-000	On Mighty Wings Lv1
+024-006-001	On Mighty Wings Lv2
+024-006-002	On Mighty Wings Lv3
+024-006-003	On Mighty Wings Lv4
+024-006-004	On Mighty Wings Lv5
+024-006-005	On Mighty Wings Lv6
+024-006-006	On Mighty Wings Lv7
+024-006-007	On Mighty Wings Lv8
+024-006-008	On Mighty Wings Lv9
+024-006-009	On Mighty Wings Lv10
+024-006-010	On Mighty Wings Lv11
+024-006-011	On Mighty Wings Lv12
+024-006-012	On Mighty Wings Lv13
+024-006-013	On Mighty Wings Lv14
+024-006-014	On Mighty Wings Lv15
+024-006-015	On Mighty Wings Lv16
+024-006-016	On Mighty Wings Lv17
+024-006-017	On Mighty Wings Lv18
+024-006-018	On Mighty Wings Lv19
+024-006-019	On Mighty Wings Lv20
+024-007		Mega Menace!!
+024-007-000	On Mighty Wings Lv21
+024-007-001	On Mighty Wings Lv22
+024-007-002	On Mighty Wings Lv23
+024-007-003	On Mighty Wings Lv24
+024-007-004	On Mighty Wings Lv25
+024-007-005	On Mighty Wings Lv26
+024-007-006	On Mighty Wings Lv27
+024-007-007	On Mighty Wings Lv28
+024-007-008	On Mighty Wings Lv29
+024-007-009	On Mighty Wings Lv30
+024-007-010	On Mighty Wings Lv31
+024-007-011	On Mighty Wings Lv32
+024-007-012	On Mighty Wings Lv33
+024-007-013	On Mighty Wings Lv34
+024-007-014	On Mighty Wings Lv35
+024-007-015	On Mighty Wings Lv36
+024-007-016	On Mighty Wings Lv37
+024-007-017	On Mighty Wings Lv38
+024-007-018	On Mighty Wings Lv39
+024-007-019	On Mighty Wings Lv40
+024-008		Mega Menace!!!
+024-008-000	On Mighty Wings Lv41
+024-008-001	On Mighty Wings Lv42
+024-008-002	On Mighty Wings Lv43
+024-008-003	On Mighty Wings Lv44
+024-008-004	On Mighty Wings Lv45
+024-008-005	On Mighty Wings Lv46
+024-008-006	On Mighty Wings Lv47
+024-008-007	On Mighty Wings Lv48
+024-008-008	On Mighty Wings Lv49
+024-008-009	On Mighty Wings Lv50
+024-008-010	On Mighty Wings Lv51
+024-008-011	On Mighty Wings Lv52
+024-008-012	On Mighty Wings Lv53
+024-008-013	On Mighty Wings Lv54
+024-008-014	On Mighty Wings Lv55
+024-008-015	On Mighty Wings Lv56
+024-008-016	On Mighty Wings Lv57
+024-008-017	On Mighty Wings Lv58
+024-008-018	On Mighty Wings Lv59
+024-008-019	On Mighty Wings Lv60
 025			H
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)
