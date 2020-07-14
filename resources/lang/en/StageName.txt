@@ -1088,6 +1088,50 @@
 001-231-000	Last of the Dead (Merciless)
 001-232		First Errand
 001-232-000	Baby Fake (Merciless)
+001-233		Isle of the Map Lord
+001-233-000	Compass Mound (Deadly)
+001-233-001	Atlas Archeology (Deadly)
+001-233-002	Church of Mercator (Merciless)
+001-234		Total War: Spring Special
+001-234-000	Rites of Spring: Basic (Veteran)
+001-234-001	Rites of Spring: Standard (Expert)
+001-234-002	Rites of Spring: Advanced (Insane)
+001-234-003	Rites of Spring: Exalted (Deadly)
+001-234-004	Rites of Spring: Supreme (Deadly)
+001-235		Total War: Summer Special
+001-235-000	Song of Summer: Basic (Expert)
+001-235-001	Song of Summer: Standard (Insane)
+001-235-002	Song of Summer: Advanced (Deadly)
+001-235-003	Song of Summer: Exalted (Deadly)
+001-235-004	Song of Summer: Supreme (Merciless)
+001-236		Total War: Fall Special
+001-236-000	Feast of Fall: Basic (Insane)
+001-236-001	Feast of Fall: Standard (Deadly)
+001-236-002	Feast of Fall: Advanced (Deadly)
+001-236-003	Feast of Fall: Exalted (Merciless)
+001-236-004	Feast of Fall: Supreme (Merciless)
+001-237		Total War: Winter Special
+001-237-000	Dance of Winter: Basic (Deadly)
+001-237-001	Dance of Winter: Standard (Deadly)
+001-237-002	Dance of Winter: Advanced (Merciless)
+001-237-003	Dance of Winter: Exalted (Merciless)
+001-237-004	Dance of Winter: Supreme (Merciless)
+001-238		Tag Arena: Rookie
+001-238-000	Quarterfinals (Easy)
+001-238-001	Semifinals (Easy)
+001-238-002	Finals (Easy)
+001-239		Tag Arena: Beginner
+001-239-000	Quarterfinals (Normal)
+001-239-001	Semifinals (Hard)
+001-239-002	Finals (Veteran)
+001-240		Tag Arena: Adept
+001-240-000	Quarterfinals (Veteran)
+001-240-001	Semifinals (Veteran)
+001-240-002	Finals (Expert)
+001-241		Tag Arena: Pro
+001-241-000	Quarterfinals (Expert)
+001-241-001	Semifinals (Insane)
+001-241-002	Finals (Deadly)
 002			Collab
 002-000		
 002-000-000	
@@ -2553,6 +2597,12 @@
 013-024-003	Anaerobic Cycling
 013-024-004	Sauna Handstands
 013-024-005	Lakeside Bootcamp
+013-025-000	Curry Comet
+013-025-001	Icarus' Instinct
+013-025-002	Rainbow Bridge Toll
+013-025-003	Planetarium Love
+013-025-004	Meteor Disco
+013-025-005	Cats in the Stars
 014			B
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -2802,6 +2852,48 @@
 025-007-000	Lake of Lava (Insane)
 025-008		Ticket Hunter G
 025-008-000	Monster's Nest (Deadly)
+025-009		Red Cradle
+025-009-000	Cradle Shrine (Deadly)
+025-010		Red Summit
+025-010-000	Summit Shrine (Merciless)
+025-011		Red Frontier
+025-011-000	Frontier Shrine (Merciless)
+025-012		Sky Cradle
+025-012-000	Cradle Shrine (Deadly)
+025-013		Sky Summit
+025-013-000	Summit Shrine (Merciless)
+025-014		Sky Frontier
+025-014-000	Frontier Shrine (Merciless)
+025-015		Black Cradle
+025-015-000	Cradle Shrine (Deadly)
+025-016		Black Summit
+025-016-000	Summit Shrine (Merciless)
+025-017		Black Frontier
+025-017-000	Frontier Shrine (Merciless)
+025-018		Holy Cradle
+025-018-000	Cradle Shrine (Deadly)
+025-019		Holy Summit
+025-019-000	Summit Shrine (Merciless)
+025-020		Holy Frontier
+025-020-000	Frontier Shrine (Merciless)
+025-021		Cosmic Cradle
+025-021-000	Cradle Shrine (Deadly)
+025-022		Cosmic Summit
+025-022-000	Summit Shrine (Merciless)
+025-023		Cosmic Frontier
+025-023-000	Frontier Shrine (Merciless)
+025-024		Necro Cradle
+025-024-000	Cradle Shrine (Deadly)
+025-025		Necro Summit
+025-025-000	Summit Shrine (Merciless)
+025-026		Necro Frontier
+025-026-000	Frontier Shrine (Merciless)
+025-027		Steel Cradle
+025-027-000	Cradle Shrine (Deadly)
+025-028		Steel Summit
+025-028-000	Summit Shrine (Merciless)
+025-029		Steel Frontier
+025-029-000	Frontier Shrine (Merciless)
 027			CA
 027-000		Messier's Assault
 027-000-000	Land of Dreams Lv1

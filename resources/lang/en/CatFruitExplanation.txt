@@ -70,7 +70,7 @@
 069	<br><br>
 070	<br><br>
 071	True Form evolution increases Attack!<br>Also gains faster movement speed.<br>
-072	True Form evolution increases all traits,<br>allows greater attack power gains<br>and grants immunity to Wave Attacks.
+072	True Form evolution increases<br>all traits, and allows greater<br>attack power gains.
 073	True Form greatly increases defense!<br>Plus, improves attack power and increases<br>the time Freeze will affect Black enemies!
 074	<br><br>
 075	True Form evolution greatly increases<br>defense and movement speed, as well<br>as increasing attack power and range.
@@ -238,7 +238,7 @@
 237	<br><br>
 238	<br><br>
 239	<br><br>
-240	True Form evolution has improved attack<br>speed and defense. Faster attack power<br>gains, and resistance to wave damage!
+240	True Form evolution gains improved <br>attack speed and much better defense.<br>Plus, greater attack power gains!
 241	<br><br>
 242	<br><br>
 243	<br><br>
@@ -503,7 +503,7 @@
 502	<br><br>
 503	<br><br>
 504	<br><br>
-505	<br><br>
+505	True Form evolution gains improved<br>defense. Plus, gains 100% Knockback<br>and Slow vs Traitless enemies!
 506	<br><br>
 507	<br><br>
 508	<br><br>
@@ -553,3 +553,8 @@
 552	<br><br>
 553	<br><br>
 554	<br><br>
+555	<br><br>
+556	<br><br>
+557	<br><br>
+558	<br><br>
+559	<br><br>

@@ -78,3 +78,8 @@
 77	★ Angel of Undeath ★
 78	★ Helping Out ★
 79	★ Floor 50 ★
+80	★ Rites of Spring ★
+81	★ Song of Summer ★
+82	★ Feast of Fall ★
+83	★ Dance of Winter ★
+84	★ Year-Round ★

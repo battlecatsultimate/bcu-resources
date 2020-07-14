@@ -503,7 +503,7 @@
 502	Myrcia	Myrcia, type ξ	
 503			
 504			
-505	Relentless Gladios	Gladios the Annihilator	
+505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
 506	Eyewaltz	Eyewaltz CC	
 507	Mightycat	Supercat	
 508	Ryu Cat	Ryu Cat CC	
@@ -553,3 +553,8 @@
 552			
 553	Bakery Cat	Boomerang Cat	
 554	Master Uril	Mystic Uril	
+555			
+556			
+557			
+558	Gacha Cat	Lucky Gacha Cat	
+559	Hell Warden Emma	Hell Sentinel Emma	

@@ -77,4 +77,9 @@
 76	Clear all Into the Future Ch. 3 Zombie Outbreak Stages
 77	Clear "Z-Onel Rises!"
 78	Clear "First Errand"
-79	Clear the 50th floor of Heavenly Tower
+79	Clear the 50th floor of Heavenly Tower
+80	Clear "Total War: Spring Special"
+81	Clear "Total War: Summer Special"
+82	Clear "Total War: Fall Special"
+83	Clear "Total War: Winter Special"
+84	Clear all Total War season maps
