@@ -1051,7 +1051,6 @@
 001-215-000	Puffer Planet (Merciless)
 001-217		Courts of Torment
 001-217-000	The Pure Land (Merciless)
-001-218		Courts of Torment
 001-219		Papuu's Paradise
 001-219-000	Saintly Sister (Merciless)
 001-220		The Old Queen
