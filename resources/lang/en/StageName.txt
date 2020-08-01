@@ -1,4 +1,4 @@
-﻿000			SoL
+﻿000			Stories of Legend
 000-000		The Legend Begins
 000-000-000	Earthshaker
 000-000-001	Return of Terror
@@ -1131,7 +1131,7 @@
 001-241-000	Quarterfinals (Expert)
 001-241-001	Semifinals (Insane)
 001-241-002	Finals (Deadly)
-002			Collab
+002			Collaboration Stages
 002-000		
 002-000-000	
 002-000-001	
@@ -1698,11 +1698,12 @@
 002-133-000	
 002-133-001	
 002-133-002	
-004			Extra
+004			Extra Stages
 004-000
 004-001
 004-002
 004-003
+3			Empire of Cats
 003-000		EoC Ch.1 Zombie
 003-000-000	Korea
 003-000-001	Mongolia
@@ -2362,7 +2363,7 @@
 004-022-005	Clash of Steel (Merciless)
 004-022-006	Seas of Death (Merciless)
 
-006			T
+006			Catclaw Dogo
 006-000
 
 007			Heavenly Tower
@@ -2418,14 +2419,14 @@
 007-000-048	Floor 49
 007-000-049	Floor 50
 
-011			R
+011			Ranking Dojo Stages
 011-000
 
-012			M
+012			Challenge Mode
 012-000		Challenge
 012-000-000	Challenge
 
-013			A
+013			Uncanny Legends
 013-000		A New Legend
 013-000-000	An Ancient Curse
 013-001		Here Be Dragons
@@ -2602,7 +2603,7 @@
 013-025-003	Planetarium Love
 013-025-004	Meteor Disco
 013-025-005	Cats in the Stars
-014			B
+014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
 014-000-001	Rays of Gold (Veteran)
@@ -2642,7 +2643,7 @@
 014-011-003	Sweet XP (Veteran)
 014-011-004	Sweet XP (Expert)
 014-011-005	Sweet XP (Insane)
-024			RA
+024			Baron Boss Stages
 024-000		Baron Seal Strikes!
 024-000-000	Red Alert 1
 024-000-001	Red Alert 2
@@ -2832,7 +2833,7 @@
 024-008-017	On Mighty Wings Lv58
 024-008-018	On Mighty Wings Lv59
 024-008-019	On Mighty Wings Lv60
-025			H
+025			Enigma Stages
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)
 025-001		Vitamin Valley
@@ -2893,7 +2894,7 @@
 025-028-000	Summit Shrine (Merciless)
 025-029		Steel Frontier
 025-029-000	Frontier Shrine (Merciless)
-027			CA
+027			Collab Baron Stages
 027-000		Messier's Assault
 027-000-000	Land of Dreams Lv1
 027-000-001	Land of Dreams Lv2
