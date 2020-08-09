@@ -2296,7 +2296,55 @@
 003-012-045	Brazil
 003-012-046	Floating Continent
 003-012-047	Moon
-
+003-013		ItF Ch.3 Zombie
+003-013-000	Japan
+003-013-001	Korea
+003-013-002	China
+003-013-003	Mongolia
+003-013-004	Russia
+003-013-005	Norway
+003-013-006	United Kingdom
+003-013-007	Denmark
+003-013-008	Germany
+003-013-009	France
+003-013-010	Spain
+003-013-011	Monako
+003-013-012	Italy
+003-013-013	Greece
+003-013-014	Turkey
+003-013-015	Dubai
+003-013-016	India
+003-013-017	Nepal
+003-013-018	Thailand
+003-013-019	Cambodia
+003-013-020	Philippines
+003-013-021	Singapore
+003-013-022	Australia
+003-013-023	The Great Abyss
+003-013-024	Madagascar
+003-013-025	Kenya
+003-013-026	Saudi Arabia
+003-013-027	Egypt
+003-013-028	Sahara
+003-013-029	Ghana
+003-013-030	South Africa
+003-013-031	Argentina
+003-013-032	Easter Island
+003-013-033	Machu Picchu
+003-013-034	Columbia
+003-013-035	Jamaica
+003-013-036	Mexico
+003-013-037	Hollywood
+003-013-038	Las Vegas
+003-013-039	Alaska
+003-013-040	Canada
+003-013-041	Greenland
+003-013-042	New York
+003-013-043	NASA
+003-013-044	Bermuda
+003-013-045	Brazil
+003-013-046	Floating Continent
+003-013-047	Moon
 004			Extra
 004-000		Growing Green
 004-000-000	Catfruit Jubilee
