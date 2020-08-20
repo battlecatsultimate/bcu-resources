@@ -1698,6 +1698,8 @@
 002-133-000	
 002-133-001	
 002-133-002	
+002-134		Hatsune Miku's Birthday!
+002-134-000	♪Birthday Party♪
 004			Extra Stages
 004-000
 004-001
@@ -2651,6 +2653,13 @@
 013-025-003	Planetarium Love
 013-025-004	Meteor Disco
 013-025-005	Cats in the Stars
+013-026		In the Sleeping Forest
+013-026-000	The Prince's Woods
+013-026-001	Aria of the Princess
+013-026-002	Wicked Beauty
+013-026-003	Glass Slippers
+013-026-004	Guild of Masks
+013-026-005	Happily Ever After
 014			Night Stages
 014-000		Growing Yellow
 014-000-000	Rays of Gold (Hard)
@@ -2691,6 +2700,48 @@
 014-011-003	Sweet XP (Veteran)
 014-011-004	Sweet XP (Expert)
 014-011-005	Sweet XP (Insane)
+014-012		Clionel Ascendant
+014-012-000	No Plan A (Deadly)	
+014-013		River Styx
+014-013-000	Realm of Carnage (Deadly)
+014-014		Queen's Coronation
+014-014-000	Honey Trap (Deadly)
+014-015		Dead on Debut
+014-015-000	Parade of the Dead (Deadly)
+014-016		King Wahwah's Revenge
+014-016-000	N-1 Grand Prix (Deadly)
+014-017		Deeply Dreaming
+014-017-000	Bombergirl (Deadly)
+014-018		Crimson Catastrophe
+014-018-000	Attack on R-Cyclone (Expert)
+014-019		Heaven of Darkness
+014-019-000	Attack on B-Cyclone (Expert)
+014-020		Peerless
+014-020-000	Attack on W-Cyclone (Expert)
+014-021		Wrath of Heaven
+014-021-000	Oncoming Maelstrom (Expert)
+014-022		Sweet Irony
+014-022-000	Attack on Titanium (Insane)
+014-023		Dimension of Despair
+014-023-000	Black Hole Rising (Insane)
+014-024		The Crazed Cat
+014-024-000	Dark Souls (Insane)
+014-025		The Crazed Tank
+014-025-000	Absolute Defence (Insane)
+014-026		The Crazed Axe
+014-026-000	Berserk (Insane)
+014-027		The Crazed Gross
+014-027-000	Festival Gross (Insane)
+014-028		The Crazed Cow
+014-028-000	Head Shaker (Insane)
+014-029		The Crazed Bird
+014-029-000	Flappy Cat (Insane)
+014-030		The Crazed Fish
+014-030-000	Fish Hell (Insane)
+014-031		The Crazed Lizard
+014-031-000	Mammals? (Insane)
+014-032		The Crazed Titan
+014-032-000	Crazy Cats (Insane)
 024			Baron Boss Stages
 024-000		Baron Seal Strikes!
 024-000-000	Red Alert 1
@@ -2881,6 +2932,69 @@
 024-008-017	On Mighty Wings Lv58
 024-008-018	On Mighty Wings Lv59
 024-008-019	On Mighty Wings Lv60
+024-009		Horrorpotamus!
+024-009-000	Cosmic Juggernaut Lv.1
+024-009-001	Cosmic Juggernaut Lv.2
+024-009-002	Cosmic Juggernaut Lv.3
+024-009-003	Cosmic Juggernaut Lv.4
+024-009-004	Cosmic Juggernaut Lv.5
+024-009-005	Cosmic Juggernaut Lv.6
+024-009-006	Cosmic Juggernaut Lv.7
+024-009-007	Cosmic Juggernaut Lv.8
+024-009-008	Cosmic Juggernaut Lv.9
+024-009-009	Cosmic Juggernaut Lv.10
+024-009-010	Cosmic Juggernaut Lv.11
+024-009-011	Cosmic Juggernaut Lv.12
+024-009-012	Cosmic Juggernaut Lv.13
+024-009-013	Cosmic Juggernaut Lv.14
+024-009-014	Cosmic Juggernaut Lv.15
+024-009-015	Cosmic Juggernaut Lv.16
+024-009-016	Cosmic Juggernaut Lv.17
+024-009-017	Cosmic Juggernaut Lv.18
+024-009-018	Cosmic Juggernaut Lv.19
+024-009-019	Cosmic Juggernaut Lv.20
+024-010		Horrorpotamus!!
+024-010-000	Cosmic Juggernaut Lv.21
+024-010-001	Cosmic Juggernaut Lv.22
+024-010-002	Cosmic Juggernaut Lv.23
+024-010-003	Cosmic Juggernaut Lv.24
+024-010-004	Cosmic Juggernaut Lv.25
+024-010-005	Cosmic Juggernaut Lv.26
+024-010-006	Cosmic Juggernaut Lv.27
+024-010-007	Cosmic Juggernaut Lv.28
+024-010-008	Cosmic Juggernaut Lv.29
+024-010-009	Cosmic Juggernaut Lv.30
+024-010-010	Cosmic Juggernaut Lv.31
+024-010-011	Cosmic Juggernaut Lv.32
+024-010-012	Cosmic Juggernaut Lv.33
+024-010-013	Cosmic Juggernaut Lv.34
+024-010-014	Cosmic Juggernaut Lv.35
+024-010-015	Cosmic Juggernaut Lv.36
+024-010-016	Cosmic Juggernaut Lv.37
+024-010-017	Cosmic Juggernaut Lv.38
+024-010-018	Cosmic Juggernaut Lv.39
+024-010-019	Cosmic Juggernaut Lv.40
+024-011		Horrorpotamus!!!
+024-011-000	Cosmic Juggernaut Lv.41
+024-011-001	Cosmic Juggernaut Lv.42
+024-011-002	Cosmic Juggernaut Lv.43
+024-011-003	Cosmic Juggernaut Lv.44
+024-011-004	Cosmic Juggernaut Lv.45
+024-011-005	Cosmic Juggernaut Lv.46
+024-011-006	Cosmic Juggernaut Lv.47
+024-011-007	Cosmic Juggernaut Lv.48
+024-011-008	Cosmic Juggernaut Lv.49
+024-011-009	Cosmic Juggernaut Lv.50
+024-011-010	Cosmic Juggernaut Lv.51
+024-011-011	Cosmic Juggernaut Lv.52
+024-011-012	Cosmic Juggernaut Lv.53
+024-011-013	Cosmic Juggernaut Lv.54
+024-011-014	Cosmic Juggernaut Lv.55
+024-011-015	Cosmic Juggernaut Lv.56
+024-011-016	Cosmic Juggernaut Lv.57
+024-011-017	Cosmic Juggernaut Lv.58
+024-011-018	Cosmic Juggernaut Lv.59
+024-011-019	Cosmic Juggernaut Lv.60
 025			Enigma Stages
 025-000		Aitum Fields
 025-000-000	Trench Warfare (Insane)

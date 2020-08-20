@@ -500,7 +500,7 @@
 499	Shakurel Tiger	Shakurel Tiger CC	
 500	Shakurel Panda	Shakurel Panda CC	
 501	Cat Bros	Baka Cat Bros	
-502	Myrcia	Myrcia, type ξ	
+502	Myrcia	Myrcia, type ξ	Divine Myrcia
 503			
 504			
 505	Relentless Gladios	Gladios the Annihilator	God-Emperor Gladios
@@ -558,3 +558,10 @@
 557			
 558	Gacha Cat	Lucky Gacha Cat	
 559	Hell Warden Emma	Hell Sentinel Emma	
+560	Megurine Luka	Megurine Luka CC	
+561	MEIKO & Cat	MEIKO & Cat CC	
+562	Luka Cat	Luka Cat CC	
+563	Squirtgun Saki	Aquabuster Saki	
+564	Summerluga	Bikinilan Pasalan	
+565	Suntan Cat	Macho Suntan Cat	
+566	Lifeguard Cats	Sweet Bro Cats	

@@ -94,6 +94,9 @@
 134	Lucky Ticket
 135	G Ticket
 136	Lucky Ticket
+138	G Ticket
+139	Lucky Ticket
+140	Ammonite
 1005	Bronze Cat
 1100	Bronze Cat
 1001	Sports Day Cat
@@ -397,6 +400,7 @@
 15437	Mystican Pasalan
 10443	Tourist Cat
 15497	Immortal Kaihime
+15503	Divine Myrcia
 15506	God-Emperor Gladios
 30000	Attack Up D: Red
 30001	Attack Up C: Red
