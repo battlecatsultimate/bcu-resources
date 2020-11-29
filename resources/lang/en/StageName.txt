@@ -2409,6 +2409,7 @@
 013-026-003	Glass Slippers
 013-026-004	Guild of Masks
 013-026-005	Happily Ever After
+013-027		Laboratory Island
 013-027-000	Flask Hill
 013-027-001	Anatomy Forest
 013-027-002	Formalin Marina
