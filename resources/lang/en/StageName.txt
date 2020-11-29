@@ -2160,6 +2160,10 @@
 004-022-004	Galactic Threat (Merciless)
 004-022-005	Clash of Steel (Merciless)
 004-022-006	Seas of Death (Merciless)
+004-025		Growing Epic
+004-025-000	Miracle Iris (Deadly)
+004-026		Laboratory of Relics
+004-026-000	Eldritch Forces
 
 006			Catclaw Dogo
 006-000
